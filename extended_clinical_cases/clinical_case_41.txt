@@ -1,0 +1,46 @@
+##  Cas Clinique : Madame Dubois 
+
+**Patient**: Madame Sophie Dubois, 33 ans
+
+**Antécédents**: Aucun
+
+**Gestation**: III geste, III pare, 37 semaines d'aménorrhées
+
+**Motif d'admission**: Céphalées, épigastralgies, nausées et vomissements
+
+**Examen clinique**:
+
+* **Etat général**: Madame Dubois est consciente, apyrétique.
+* **Aspect**:  Patiente pâle, avec un ictère jaunâtre visible sur la peau et les muqueuses.
+* **Tension artérielle**: 175/110 mmHg
+* **Cardio-respiratoire**: Rythme cardiaque régulier, sans souffle. Respiration facile et régulière.
+* **Abdomen**: Hauteur utérine à 30 cm, palpable sans contractions utérines. Col long, fermé, postérieur. Poches des eaux intactes. Présentation céphalique. Rythme cardiaque fœtal (RCF) normal.
+
+**Examens complémentaires**:
+
+* **Échographie obstétricale**: Grossesse mono-fœtale évolutive, liquide amniotique normal, absence de retard de croissance intra-utérin.
+* **Échographie hépatique**: Normale.
+* **Bilan biologique**:
+    * **Hépatites**: ASAT: 855 UI/L, ALAT: 582 UI/L, Bilirubine conjuguée à 85 mg/l, Bilirubine indirecte à 10 mg/l.
+    * **Hématologie**: Plaquettes à 65 000 éléments/mm3, hyperleucocytose à 18000/mm3, hémoglobine à 10,4 g/dl. 
+    * **Coagulation**: Prothrombine à 55%, INR à 1,5. 
+    * **Rein**: Créatinémie à 15 mg/l, urée sanguine à 0,9 mmol/l.
+    * **Glycémie**: Hypoglycémie à 0,5 g/L.
+    * **Sérologies**: A, B et C négatives.
+
+
+**Diagnostic**:
+
+D'après le contexte clinique et biologique, le diagnostic d'une complication hépatique grave de la prééclampsie, à savoir une stéatose hépatique aiguë gravidique, est posé.
+
+**Conduite thérapeutique**:
+
+* **Hypertension artérielle**:  Deux bolus de 0,5 mg de nicardipine.
+* **Hypoglycémie**:  Perfusion de sérum glucosé à 10%.
+* **Surveillance étroite**: La patiente est hospitalisée sous surveillance étroite avec un suivi régulier des paramètres biologiques, de la tension artérielle et du RCF. 
+
+ **Prognostic**: Le pronostic dépend de la sévérité de l'atteinte hépatique et de la rapidité de l'intervention thérapeutique. Une prise en charge rapide et efficace permet de réduire les risques de complications maternelles et fœtales. 
+
+
+ **Note**: Il est crucial de poursuivre le suivi biologique et clinique de Madame Dubois en post-partum afin de surveiller l'évolution hépatique et de prévenir toute complication à long terme. 
+

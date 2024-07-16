@@ -1,0 +1,58 @@
+##  Case Report:  Mme A.W. - Mélanocytome Médullaire Primitif 
+
+**Patient:** Mme Antoinette W., 51 years old, with no significant past medical history.
+
+**Presenting Complaint:**  Following a motor vehicle accident resulting in a cervical trauma with spontaneously regressing paresthesias in all four limbs, Mme W. underwent a cervical MRI. 
+
+**Initial Imaging Findings (Figure 4):**
+*  The cervical MRI revealed a hyperintense lesion consistent with a medullary contusion in the context of post-traumatic cervical injury.  
+*  The lesion was initially asymptomatic.
+
+**Radiological Follow-up:**
+
+*  Despite the absence of radiological evolution, a discrepancy between clinical and radiological findings led to a secondary diagnosis of a cervical intramedullary cavernous malformation.
+*  Annual radiological and clinical follow-up was recommended.
+
+**Clinical Course:**
+
+*  For four years, Mme W. remained asymptomatic.
+*  She then presented with cervico-occipital headaches, blurred vision, and bilateral papillary edema upon ophthalmoscopic examination.
+
+**Neuroradiological Findings (Figure 5):**
+
+*  A repeat MRI revealed the previously identified lesion, now slightly enlarged, and importantly, meningeal dissemination along the entire cerebrospinal axis.
+
+**Surgical Intervention:**
+*  Surgical intervention focused on the cervical medullary lesion with a biopsy obtained.
+
+**Histopathological Findings:**
+*  Microscopic examination revealed a tumor composed of oval cells with irregular nuclei and melanin-rich cytoplasm.
+*  No cyto-nuclear atypia or high proliferative index was observed.
+*  Immunohistochemical staining with HMB 45 confirmed the presence of melanocytes.
+
+**Post-Operative Staging:**
+
+*  A comprehensive post-operative staging evaluation was performed, including dermatological consultation, thoraco-abdomino-pelvic CT scan, bone scintigraphy, and PET-scan.
+*  These studies confirmed the diagnosis of a primary intramedullary meningeal melanocytoma complicated by a secondary diffuse meningeal melanocytosis, responsible for the intracranial hypertension.
+
+**Treatment:**
+*  After multidisciplinary consensus, the patient underwent cerebrospinal irradiation combined with temozolomide chemotherapy.
+*  This initial treatment plan resulted in a satisfactory response with a decrease in headaches.
+
+**Disease Progression and Outcome:**
+
+*  Subacutely, a confusional syndrome developed, accompanied by an increase in headaches and a return of coma.
+*  Two months after the initiation of chemotherapy, the treatment was discontinued due to the patient's deteriorating general condition.
+*  Mme W. tragically passed away within three months of the initiation of her treatment.
+
+
+
+**Discussion:**
+This case highlights the complexities of diagnosing and managing rare tumors like intramedullary melanocytomas. 
+
+* The initial presentation can be misleading, mimicking more common pathologies like contusions.
+*  Radiological findings alone may not be sufficient to establish a definitive diagnosis, emphasizing the importance of clinical correlation and histopathological confirmation. 
+
+*  While multimodal treatment can be effective initially, these tumors can be aggressive with a poor prognosis.
+
+Further research is needed to improve our understanding of the natural history and optimal treatment strategies for intramedullary melanocytomas. 

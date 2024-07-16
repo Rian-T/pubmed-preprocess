@@ -1,0 +1,44 @@
+##  Cas clinique : Calcul vésical géant chez Madame Dupont
+
+**Patient:** Madame Marie Dupont, 31 ans, sans antécédents pathologiques notables.
+
+**Motif de consultation:** Douleurs pelviennes et lombaires bilatérales, dysurie et brulures mictionnelles évoluant dans un contexte de fièvre non chiffrée.
+
+**Examen clinique:**
+
+Madame Dupont se présente aux urgences altérée, fébrile (39°C). L'examen abdominal révèle une masse dure en région sus-pubienne et une sensibilité lombaire bilatérale.
+
+**Bilan biologique:**
+
+* Insuffisance rénale aiguë: créatinine à 52 mg/l, urée: 1,26 g/l
+* Syndrome inflammatoire: CRP à 256 mg/l, leucocytes à 12000 éléments/l.
+* Examen des urines: infection urinaire à *Providencia rettgeri* sensible au céftriaxone.
+
+**Imagerie:**
+
+* Arbre urinaire sans préparation (AUSP): image de tonalité calcique se projetant sur la vessie, évoquant un géant calcul vésical. (Figure 1)
+* Échographie et TDM abdomino-pelvienne sans injection de produit de contraste (Figure 2): urétéro-hydronéphrose bilatérale en amont d'un gros calcul de vessie de 10,3 cm de grand axe.
+
+**Traitement:**
+
+* Antibiothérapie parentérale à base de céftriaxone à la dose de 2g/24h.
+* Réalisation de deux néphrostomies en urgence.
+* Cystolithotomie par incision médiane sus-pubienne après normalisation de la fonction rénale et refroidissement par antibiothérapie. Extraction d'un gros calcul de 10 cm et 700g de poids (Figure 3, Figure 4).
+* Nature spectrophotometrique du calcul: phosphoammoniaque et oxalate de calcium.
+* Le Redon a été enlevé le lendemain et la patiente est sortie d'hôpital 48h en post-opératoire.
+* La sonde vésicale a été enlevée 10 jours après le geste.
+
+**Suivi:**
+
+* Bilan biologique de contrôle normalisé.
+* Échographie vésicale sans résidu post mictionnel.
+* Débitmètre: capacité vésicale à 500 cc, Q max à 15 et courbe mictionnelle en cloche normale.
+* Cystoscopie: absence de sténose sous-vésicale, col vésical s'ouvre normalement, vessie distendue à muqueuse normale.
+* Examen urodynamique sans anomalie particulière.
+
+**Conclusion:**
+
+Madame Dupont a présenté un cas de calcul vésical géant avec complications, nécessitant une intervention chirurgicale majeure.  Le suivi post-opératoire est globalement favorable avec une récupération complète.
+
+
+

@@ -1,0 +1,61 @@
+##  Cas clinique : Hémangiopéricytome méningé de l'angle ponto-cérébelleux chez M. Henri Dubois
+
+**Service de Neurochirurgie - Hôpital d'Instruction des Armées, Tours**
+
+**Patient :** M. Henri Dubois, âgé de 58 ans, cadre de santé, sans antécédents pathologiques particuliers.
+
+**Motif d'hospitalisation :** Syndrome d'hypertension intracranienne (IIH)
+
+**Historique:**
+
+M. Dubois se présente aux urgences pour des nausées et des vomissements persistants, associés à des céphalées intenses, rebelles au traitement antalgique classique (paracétamol, ibuprofène). Ces symptômes débutent il y a 3 semaines et s'aggravent progressivement.  
+
+Il décrit également des vertiges, un bourdonnement d'oreille (acouphènes), des troubles de l'équilibre, et une diplopie (vision double).  Il n'associe aucun trouble de la vision ou de la parole.  
+
+**Examen clinique:**
+
+Le patient est conscient et orienté dans le temps et l'espace. Son état général est conservé. 
+
+*  **Examen neurologique:** 
+    * Réactivité pupillaire normale à la lumière.
+    * Force musculaire distale conservée aux quatre membres.
+    * Coordination motrice conservée. 
+    * Réflexes ostéotendineux conservés. 
+    * Absence de signe de Babinski.
+
+**Examens complémentaires:**
+
+* **IRMf encéphalique:** objective une lésion expansive de l'angle ponto-cérébelleux, s'étendant au rocher, mesurant 20 mm × 30 mm.  Cette lésion est hyperintense en T1 et T2, avec un contraste hétérogène après l'injection du produit de contraste. On observe un effet de masse sur le V4. (Figure 1)
+
+* **Angio-IRM cérébrale:**  met en évidence une vascularisation atypique de la lésion, avec des vaisseaux ramifiés en "bois de cerf", dont la lumière n'est pas toujours visible. 
+
+**Diagnostic:**
+
+L'imagerie cérébrale et les symptômes cliniques évoquent un neurinome ou un méningiome de l'angle ponto-cérébelleux.
+
+**Intervention chirurgicale:**
+
+Opération de résection large de la lésion sous contrôle neurochirurgical. 
+
+**Résultats anatomopathologiques:**
+
+L'étude anatomo-pathologique (Figure 2) après coloration standard révèle un processus tumoral mal limité, multinodulaire, avec une densité cellulaire élevée.  On observe des nappes cellulaires peu cohésives, une vascularisation riche et angiomateuse, caractérisée par un aspect ramifié en "bois de cerf" et une lumière vasculaire souvent non visible.  L'anisocaryose est modérée, l'activité mitotique élevée (4 mitoses/champ au fort grandissement). 
+
+L'étude immunohistochimique montre un marquage intense avec le CD31 et le CD34, qui réhausse le réseau vasculaire, tandis que le marquage par l'EMA est négatif.  
+
+**Diagnostic définitif:**  Hémangiopéricytome méningé de l'angle ponto-cérébelleux.
+
+**Prognostic:**
+
+Le pronostic dépend de la taille et de la localisation de la lésion, ainsi que de la présence ou non de métastases. L'hémangiopéricytome méningé est un type de tumeur relativement rare et bénigne, mais son pronostic peut s'avérer défavorable si la lésion est large ou si elle est mal limitée.
+
+**Suivi:**
+
+Le patient est suivi en neurochirurgie pour un contrôle régulier de l'évolution de la lésion. Il est également pris en charge par un oncologue pour un suivi systématique.
+
+
+**Figure 1:**  [Insertion d'une image radiologique plausible d'un hémangiopéricytome méningé]
+**Figure 2:**  [Insertion d'une image histologique plausible d'un hémangiopéricytome méningé]
+
+
+

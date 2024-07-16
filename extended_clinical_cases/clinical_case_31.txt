@@ -1,0 +1,49 @@
+##  Cas clinique : Madame K.L. 
+
+**Antécédents:**
+
+Madame K.L., âgée de 75 ans, est une femme autonome. Son historique médical révèle une artériopathie carotidienne droite, traitée chirurgicalement. Elle a également bénéficié d'une thyroïdectomie pour un goitre thyroïdien et est actuellement sous substitution par le Lévothyrox 75 mcg/jour.  
+
+En septembre 2010, elle a subi une chute occasionnant un traumatisme crânien bénin sans perte de connaissance. L'incident n'a pas présenté de suites immédiates.  Cependant, depuis lors, elle a été victime de plusieurs chutes. Un scanner cérébral réalisé en 2010 a montré une hydrocéphalie tétraventriculaire avec signes de résorption trans-épendymaire, conduisant à la suspicion d'hydrocéphalie chronique. Une ponction lombaire déplétive et analyse de liquide cérébrospinal ont révélé une hyper-protéinorachie à 3,23 g/dl et une pression intracrânienne de 14 cmH2O.
+
+**Symptômes:**
+
+Au début janvier 2011, Madame K.L. se présente avec une confusion et une désorientation temporo-spatiale notables. Sa marche est extrêmement difficile et nécessite l'aide de deux personnes. Elle présente également des troubles mnésiques majeurs, reconnaissant à peine ses enfants.
+
+Elle rapporte également des douleurs dorso-lombalgies avec irradiation dans le membre inférieur gauche.
+
+**Examen clinique:**
+
+L'examen clinique n'objectivait pas de déficit moteur notable. Cependant, un signe de Babinski positif et un réflexe rotulien vif au membre inférieur gauche étaient observés.
+
+**Diagnostic:**
+
+La symptomatologie de la patiente, combinée aux résultats du scanner cérébral et de la ponction lombaire, a conduit à l'évocation d'une tumeur médullaire responsable d'hydrocéphalie.
+
+**Imagerie:**
+
+Une IRM cérébrospinale en pondération T1, T2 et T1 avec injection de gadolinium a été réalisée. L'IRM a révélé une hydrocéphalie communicante avec résorption trans-épendymaire au niveau cérébral, sans signes de métastases leptoméningées.
+
+Au niveau médullaire, une lésion intra-durale extra-médullaire, située en regard de la vertèbre D12 paramédiane gauche, était visible. Cette lésion comprime significativement la moelle épinière. L'IRM montrait que la lésion était spontanément hypointense T1 et hyperintense T2, se rehaussant de façon intense et hétérogène après injection de gadolinium.
+
+**Intervention chirurgicale:**
+
+Suite à la découverte de la lésion médullaire, une intervention chirurgicale a été décidée. Une artériographie médullaire a été réalisée préalablement afin de repérer l'artère d'Adamkiewicz, qui se trouvait en D12 gauche. L'intervention chirurgicale a permis une exérèse complète de la lésion médullaire.
+
+**Résultats anatomopathologiques:**
+
+L'examen anatomopathologique de la lésion a révélé une prolifération tumorale à cellules fusiformes sans signes de malignité, évoquant un schwannome.
+
+**Evolution post-opératoire:**
+
+L'évolution post-opératoire de Madame K.L. a été lentement favorable. Une rééducation progressive a été instaurée, permettant une reprise de la mobilité. La mise au fauteuil a pu se faire rapidement sans problème, suivie d'une marche d'abord avec deux aides, puis progressivement avec un déambulateur et l'aide d'un kinésithérapeute.
+
+Sur le plan cognitif, une amélioration rapide de la vigilance et une amélioration lente des troubles mnésiques ont été observées. La disparition complète des troubles mnésiques s'est produite au bout de 6 mois d'évolution.
+
+La protéinorachie a nettement baissé à 0,29 g/L. Un scanner cérébral de contrôle réalisé à 6 mois a montré une régression de la dilatation ventriculaire.
+
+
+
+**Conclusion:**
+
+Ce cas clinique met en lumière l'importance de la prise en charge multidisciplinaire des patients présentant des symptômes neurologiques complexes. La collaboration entre neurologues, neurochirurgiens, radiologues et neuropathologistes a permis un diagnostic précis et une intervention chirurgicale efficace, conduisant à une amélioration significative de l'état de santé de Madame K.L. 

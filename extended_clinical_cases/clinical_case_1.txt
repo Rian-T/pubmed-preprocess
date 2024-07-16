@@ -1,0 +1,71 @@
+## Cas Clinique : Mme B.L.
+
+**Patient:** Mme B.L., 36 ans, célibataire, sans enfants.
+
+**Antécédents:** Opérée par voie coelioscopique en Février 2006 pour lithiase vésiculaire simple. Suite opératoire marquée par l'apparition d'un subictère au 7ème jour post-opératoire, traité symptomatiquement sans exploration.
+
+**Motif de Consultation:** Aggravation de son état général.
+
+**Date d'Admission:** 16ème jour post-opératoire.
+
+**Examen Clinique:**
+
+* Etat général altéré, sans choc septique, apyrétique, subictérique. 
+* Matité des 2 flancs. 
+* Bombement indolore du cul de sac de Douglas au toucher rectal.
+
+**Examens Biologiques:**
+
+* Cholestase:
+    * Hyperbilirubinemie à prédominance conjuguée (70/48 µmole/l)
+    * Phosphatases alcalines à 435 UI/l
+    * GGT à 137 UI/l
+    * TP bas à 39%
+    * Transaminases normales.
+
+**Examens d'Imagerie:**
+
+* Échographie et scanner abdominal: révèlent un épanchement intra-péritonéal de grandes abondances diffuses. Ponction: liquide biliaire.
+
+**Diagnostic:** Plaie biliaire.
+
+**Intervention Chirurgicale:** Laparotomie. 
+
+**Description de l'intervention:**
+
+* Épanchement intra-péritonéal bilieux d'environ 3 litres en rapport avec une perte de substance de la voie biliaire principale (VBP) s’étendant de la convergence des canaux hépatiques droit et gauche jusqu'au bord supérieur du duodénum.
+* Toilette péritonéale avec drainage sélectif des canaux hépatiques biliaires droit et gauche.
+
+**Evolution Post-Opératoire:**
+
+* Immédiate favorable. 
+* Drainage: 2 litres de bile par jour, puis tarissement progressif vers le 20ème jour post-opératoire.
+* Échographie de contrôle: dilatation modérée des canaux hépatiques droit et gauche sans épanchement intra-péritonéal.
+* Cholangiographie IRM (4 mois): defect biliaire de 18 mm s’étendant de la plaque hilaire jusqu'au bord supérieur du duodénum, dilatation modérée des canaux hépatiques droit et gauche à 7 mm.
+* CPRE: section complète de la VBP avec une fistule bilio-bulbaires fonctionnelle entre la plaque hilaire et le duodénum, expliquant l'absence de dilatation importante des voies biliaires et le tarissement de l’écoulement du drain.
+
+**Complications:**
+
+* A 8 mois d'évolution, développement d'un ictère flamboyant en rapport avec une sténose de la fistule bilio digestive, mais sans angiocholite aiguë grave.
+
+**Deuxième Intervention Chirurgicale:**
+
+* Déconnection de la fistule bilio digestive et anastomose hepatico-jéjunale sur une anse montée en Y.
+
+**Evolution Post-Opératoire 2:**
+
+* Favorable.
+
+
+
+This fictional case follows a realistic narrative structure typical of a French clinical case report, with a focus on the patient's history, examination findings, laboratory results, imaging studies, surgical interventions, and post-operative course.
+
+**Key Points:**
+
+* **Detailed Description:** The case provides a comprehensive overview of the patient's journey, including specific values for laboratory tests and imaging findings.
+* **Medical Terminology:** The report utilizes accurate French medical terminology, reflecting the specificity expected in a professional context.
+* **Logical Flow:** The narrative progresses logically from initial presentation to diagnosis, treatment, complications, and final outcome.
+* **Plausible Scenario:** The case describes a series of events that are realistic and consistent with the complications that can arise after biliary surgery.
+
+
+

@@ -1,0 +1,50 @@
+##  Cas clinique : Monsieur Henri Marchand
+
+**Patient:** Monsieur Henri Marchand, 54 ans, retraité, résidant à Nantes. 
+
+**Antécédents:** 
+
+* Tabagisme chronique à 25 paquets-années, sevré depuis 6 mois.
+* Hypertension artérielle traitée par métoprolol 50mg/j.
+* Dyslipidémie contrôlée par atorvastatine 20mg/j.
+* Antécédent personnel d’AVC ischémique léger il y a 10 ans.
+
+**Motif de consultation:** Douleur thoracique rétrosternale et dyspnée, débutant il y a 4 semaines, s’aggravant progressivement avec l’effort. Touche productive à base de crachats hémoptoiques (moins de 10 ml par jour), apparaissant depuis 2 semaines. Altération de l’état général avec fatigue importante et perte de poids de 3 kg depuis un mois.
+
+**Examen clinique:** 
+
+* Patient pâle et amaigri. 
+* FR : 20/min, régulière.
+* TA : 140/90 mmHg.
+* Respiration : 16/min,  souffle expiratoire prolongé au niveau du bas du poumon droit.
+* Auscultation cardiaque : rythme régulier, sans souffle.
+* Abdomen : souple, non douloureux, sans masses palpables.
+
+**Examens complémentaires:**
+
+* Radiographie du thorax : Opacité dense et périphérique au niveau du lobe supérieur et moyen droit.
+* Scanner thoraco-abdomino-pelvien : Confirmation d’une masse tumorale pulmonaire périphérique (7,5x5x6cm) lobaire moyen et supérieur droit avec un nodule homolatéral de 2 cm.  Absence d’atteinte ganglionnaire mésentérique ou hépatique. Étage abdominal normal. (Figure 1)
+* Biopsie par bronchoscopie : Confirmation de néoplasie pulmonaire à cellules non à petites cellules (CSPC) de type adénocarcinome.
+
+
+**Diagnostic:** 
+
+* Cancer du poumon non à petites cellules (CSPC) stade IIIB (T3N0M0) selon la classification TNM de l’Union internationale contre le cancer (UICC).
+
+**Traitement:** 
+
+* Lobetomie supérieure et moyenne droite avec curage ganglionnaire le 26.07.2017. 
+* Radiothérapie externe du poumon droit post-opératoire.
+* Chimiothérapie post-opératoire avec cisplatine et gemcitabine.
+
+**Evolution:**
+
+Le patient présente une récupération post-opératoire favorable.  La radiographie thoracique à 3 mois post-opératoire montre une rémission complète. Le patient suit son traitement chimiothérapeutique avec une bonne tolérance.
+
+
+**Figure 1:** [Incorporer une image d'un scanner thoraco-abdomino-pelvien montrant la tumeur pulmonaire] 
+
+
+**Conclusion:**
+
+Ce cas illustre l’importance du dépistage et du diagnostic précoce du cancer du poumon. La prise en charge multidisciplinaire, incluant la chirurgie, la radiothérapie et la chimiothérapie, est essentielle pour améliorer le pronostic des patients atteints de CSCP.  

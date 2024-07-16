@@ -1,0 +1,65 @@
+##  Cas Clinique : Madame Delphine Dubois
+
+**Service**: Réanimation
+
+**Date**: 2023-10-26
+
+**Patient**: Madame Delphine Dubois, 35 ans, 
+
+**Antécédents**: 
+
+* Aucun antécédent pathologique connu significatif. 
+* Tabagisme passif modéré (exposition à la fumée de tabac environ 1 heure par jour). 
+
+**Motif d'admission**: Suspicion d'embolie pulmonaire.
+
+**Historique**:
+
+Madame Dubois a été admise aux urgences chirurgicales il y a 20 jours pour une fracture isolée des plateaux tibiaux droits. Le traitement initial a consisté en un plâtre circulaire cruro-pédieux, sans anticoagulation préventive. 
+
+Deux semaines plus tard, elle a développé une douleur et une tuméfaction au niveau du membre inférieur droit, conduisant à l'ablation du plâtre. Une immobilisation par attelle a été mise en place. L'anticoagulation n'a pas été initiée.
+
+Une semaine après, des douleurs basithoraciques droites d'intensité croissante, accompagnées de dyspnée et de fièvre, ont nécessité une hospitalisation en structure privée pendant deux jours. Elle a reçu un traitement symptomatique à base de paracétamol, métamisole et ceftriaxone. 
+
+Après une aggravation de ses symptômes, elle a été transférée en réanimation.
+
+**Examen physique à l'admission**:
+
+* **Général**:  Tachypnée (22 battements par minute), cyanose périphérique modérée, température à 38.2°C.
+* **Cardio-vasculaire**: Fréquence cardiaque à 110 battements par minute, rythme régulier, souffle expiratoire au niveau droit, crépitements rénales modérés. 
+* **Respiratoire**: Dyspnée importante, respiration superficielle, respiration costale augmentée, douleur thoracique droite à la palpation.
+* **Abdominaux**: Non douloureux à la palpation. 
+
+**Examens complémentaires**:
+
+* **Radiographie pulmonaire**: Opacité dense homogène sans bronchogramme aérien occupant le tiers inférieur du champ pulmonaire droit.
+* **ECG**: Aspect S1Q3T3.
+* **D-Dimères**: 3547,94 ng/ml.
+* **Angioscanner thoracique**: Confirmation de l'embolie pulmonaire.
+* **Échodoppler veineux du membre inférieur droit**: Thrombose veineuse profonde de la fémorale superficielle.
+
+**Traitement**:
+
+* **Oxygénothérapie**: 4 litres par minute via masque nasal à oxygène.
+* **Anticoagulation**: Enoxaparine 4000 UI 2 fois par jour, en raison de l'embolie pulmonaire confirmée.
+* **Analgésie**: Paracétamol et Tramadol.
+* **Antibiothérapie**: Amoxicilline-Acide clavulanique.
+
+**Evolution**:
+
+L'état clinique de Madame Dubois s'améliore progressivement sous traitement. La douleur thoracique diminue, la dyspnée est contrôlée et la fièvre s'atténue. Le suivi radiologique et clinique permettra de surveiller l'évolution de l'embolie pulmonaire et de la thrombose veineuse profonde.
+
+**Prognostic**:
+
+Le pronostic de Madame Dubois est actuellement réservé. La gravité de l'embolie pulmonaire et la thrombose veineuse profonde nécessitent une surveillance étroite et un traitement long terme.
+
+**Discussion**:
+
+Ce cas clinique met en évidence l'importance de la prévention des thromboembolies après une fracture. Le manque d'anticoagulation préventive chez Madame Dubois a contribué à la survenue de l'embolie pulmonaire. Il est crucial d'évaluer le risque thromboembolique chez tous les patients hospitalisés pour fracture et d'initier une anticoagulation préventive si nécessaire.
+
+**Conclusion**:
+
+Ce cas clinique souligne l'importance d'une prise en charge rapide et efficace des embolies pulmonaires. Le diagnostic précoce et le traitement adapté sont essentiels pour améliorer le pronostic des patients. 
+
+
+

@@ -1,0 +1,56 @@
+##  Cas Clinique : Hyperaldostéronisme Pré-Natal chez Mme E.K.
+
+**Mme E.K.,** âgée de 33 ans, enceinte à 16 semaines d'aménorrhée, sans antécédents particuliers, a été admise pour une impotence fonctionnelle des quatre membres et algies diffuses avec notion d’urines foncées, évoluant depuis trois mois dans un contexte d’asthénie et d’apyrexie.
+
+**Examen clinique:**
+
+* **Etat Général:** Consciente, bien orientée dans le temps et dans l'espace,  
+* **Anthropometrie:** Poids : 73 kg, Taille : 1,61 m, IMC : 27,8 kg/m². 
+* **Tension Artérielle:** 148/87 mmHg
+* **Neurologique:** Signes de tabouret positif, diminution bilatérale de la force segmentaire et globale des quatre membres. Absence de signes pyramidaux, troubles sensitifs ou troubles vésico-sphinctériens. Paires crâniennes normales.
+* **Cardiovasculaire:** Auscultation cardiaque normale.
+* **Abdominal:** Souple, sans masse palpable.
+
+**Bilan biologique:**
+
+* **Électrolytes:** Hypokaliémie sévère (1,1 mmol/l - normale : 3,5 à 4,5 mmol/l), kaliurèse élevée (64 mmol/24h). Natrémie normale (140 mmol/l), natriurèse normale (108 mmol/l). Créatininémie normale (6 mg/l).
+* **Enzymes musculaires:** Augmentation significative de la créatine phosphokinase (CPK) à 7722 UI/l et de la lactate déshydrogénase (LDH) à 313 UI/l.
+* **Transaminases:** Légère élévation des transaminases (ASAT à 116 IU/l et ALAT à 100 UI/L).
+* **Hormonal:**
+
+    * **Hyperaldostéronisme:** Taux d'aldostérone élevé (4275 pmol/L en position couchée et 4838 pmol/L en position debout - normale < 440 pmol/L en position couchée et 110 à 880 pmol/L en position debout).
+    * **Activité rénine plasmatique diminuée:** 1,5 mUI/l en position debout (normale : 4,4 à 46,1 mUI/L) et 1,4 mUI/l en position couchée (normale : 2,8 à 39,9 mUI/L).
+    * **Bilan thyroïdien normal:** TSH à 2,96 mUI/l, T4 à 13,98 pmol/l.
+
+* **Électrocardiogramme:** Rythme cardiaque à 62 b/min, affaissement du segment ST, aplatissement des ondes T.
+
+**Diagnostic:**
+
+* **Hyperaldostéronisme primaire** avec une probable adénome surrénalien gauche.
+
+**Traitement:**
+
+* **Recharge potassique:** 
+Administration d’une solution de chlorure de potassium par voie veineuse centrale, sous contrôle électrocardioscopique, en raison de l’hypokaliémie sévère et symptomatique.
+* **Spironolactone:** 75 mg deux fois par jour, associée au potassium, pour contrôler l’hyperaldostéronisme.
+
+**Évolution:**
+
+* **Clinique:**
+    * Normalisation progressive de la kaliémie.
+    * Disparition complète de la tétraparésie.
+* **Imagerie:** IRM abdominale révélant un nodule de la partie inférieure du corps surrénalien gauche de 15mm x13mm de diamètre, compatible avec un adénome surrénalien.
+* **Complications:** Thrombose veineuse profonde sur cathéter fémoral, nécessitant la mise en attente de l’intervention chirurgicale. Pré-éclampsie à 34 semaines d’aménorrhée, conduisant à une césarienne en urgence.
+
+**Suivi:**
+
+* Surrénalectomie gauche réalisée deux mois après l’accouchement, avec des suites opératoires simples.
+* Normalisation de la kaliémie et de la tension artérielle post-opératoire.
+
+ **Remarques:**
+
+*  Ce cas clinique met en évidence la nécessité d’une suspicion élevée d’hyperaldostéronisme chez les femmes enceintes présentant une hypokaliémie et des symptômes neurologiques.
+* Le diagnostic précoce et le traitement approprié sont essentiels pour prévenir les complications graves, notamment la thrombose veineuse profonde et la pré-éclampsie.
+
+
+

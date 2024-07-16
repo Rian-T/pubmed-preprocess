@@ -1,0 +1,60 @@
+##  Cas Clinique : Madame Dubois
+
+**Madame Dubois**, une femme de 50 ans, sans antécédents pathologiques notables, est suivie en consultation depuis 5 ans pour des malaises hypoglycémiques. 
+
+**Symptômes:**
+
+*  Malaises hypoglycémiques se manifestant par des signes neurovégétatifs tels que: 
+    *  Flou visuel
+    *  Troubles de conscience pouvant aller jusqu'au coma hypoglycémique.
+*   Survenues à jeun et à distance des repas, sans rapport avec l'effort.
+*   Progression des épisodes : de 2 à 3 épisodes par jour.
+*   Rémission des symptômes après resucrage oral.
+*   Prise pondérale non chiffrée constatée durant ces 5 ans.
+
+**Examens:**
+
+*   Glycémie à jeun veineuse : 0,26 g/l (normale > 0,7 g/l)
+*   Cortisol plasmatique de 8h : 5 µg/dl (normale 14-20 µg/dl) - insuffisance surrénalienne détectée
+
+**Traitements:**
+
+*   Substitution en hydrocortisone : persistance des hypoglycémies malgré le traitement
+*   Recherche d'insulinome devant la triade de Whipple:
+    *   Sécrétion inappropriée d'insuline : 65,9 mUI/l (normale 2,6-24,9 mUI/l)
+    *   Sécrétion inappropriée de Peptide C : 9,2 ng/ml (normale 1,1-4,4 ng/ml)
+
+**Bilan topographique:**
+
+*   Echo-endoscopie : sans particularité
+*   Tomodensitométrie abdominale en coupes fines avec injection du produit de contraste : révélant une lésion nodulaire caudale du pancréas, réhaussée après contraste, faisant 1,5 cm de grand axe.
+*   Bilan à la recherche d'un néoplasie endocrinienne multiple de type 1 : négatif
+
+**Intervention chirurgicale:**
+
+*   Pancréatectomie caudale sans splénectomie par open-coelioscopie : réussite de l'intervention avec une récupération rapide.
+
+**Suivi post-opératoire:**
+
+*   Formation d'un faux kyste péri-pancréatique : surveillance et résolution spontanée.
+*   Disparition totale des hypoglycémies après l'intervention chirurgicale.
+
+**Anatomopathologie:**
+
+*   Bien différenciée, grade 2 selon la classification de l'OMS 2010.
+*   Infiltrant la graisse péri-pancréatique, avec présence d'emboles vasculaires et d'un engainement péri-nerveux.
+*   Limites de résection saines.
+
+**Conclusion:**
+
+Madame Dubois a été diagnostiquée avec un insulinome bien différencié, traité par pancréatectomie caudale. La chirurgie a été un succès avec une résolution complète de ses hypoglycémies.
+
+
+**Figures:** 
+
+* Figure 1 et 2 : Tomodensitométrie abdominale montrant la lésion nodulaire caudale du pancréas.
+* Figure 3 : Photographie de l'incision opératoire après la pancréatectomie caudale.
+* Figure 4 et 5 : Sections anatomopathologiques de la tumeur.
+
+
+

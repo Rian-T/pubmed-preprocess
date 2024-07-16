@@ -1,0 +1,48 @@
+##  Cas clinique : M. Étienne Moreau
+
+**Date de naissance:** 15 avril 1981
+
+**Sexe:** Masculin
+
+**Service:** Neurosciences
+
+**Médecin traitant:** Dr. Isabelle Dubois
+
+**Motif de consultation:**  Exophtalmie progressive, ophtalmoplégie et baisse de l'acuité visuelle droite.
+
+**Antécédents:**
+*  Asymétrie des fentes palpébrales congénitale.
+*  Opération d'une tumeur méningée sphéno-orbitaire droite à l'âge de 17 ans (diagnostic histologique : mélanomatose méningée). Évolution stable pendant 25 ans. Documents radiologiques antérieurs détruits dans un incendie.
+
+**Examen clinique actuel:**
+*  Exophtalmie droite avec un œil saillant et un globe oculaire visiblement plus proéminent que la normale.
+*  Ophtalmoplégie droite partielle avec difficulté à diriger l'œil vers l'intérieur et vers le haut.
+*  Acuité visuelle droite significativement réduite. 
+*  Douloureux à la palpation des régions orbitaire et rétro-orbitale droite. 
+
+**Examens complémentaires:**
+
+* **IRM cérébrale (T1, T2, post-gadolinium):**  Lésion extra-axiale développée au niveau du sinus caverneux droit, s'étendant vers l'orbite avec une extension vers la fosse infra-temporale et les muscles ptérygoïdiens. La lésion apparaît bien limitée, sans signes d'envahissement cérébral, hyperintense en T1 et hypointense en T2. Elle prend le contraste de manière homogène et intense.
+* **Chirurgie:**  Abord ptérional. Macroscopiquement, tumeur noirâtre, molle, gélatineuse, très hémorragique. Exérèse subtotale.
+
+**Examen histologique:** 
+* Cellules fusiformes avec des noyaux ovalaires discrètement irréguliers et un cytoplasme abondant apparaissant rempli de pigments marqués par la coloration de Fontana (coloration de la mélanine).
+* Présence de mitoses en nombre supérieur à trois pour dix champs à fort grossissement.
+* Absence de nécrose.
+* Immunohistochimie : Positivité pour HMB45. 
+* Index mitotique évalué avec l'anticorps anti-Ki 67 : 20%.
+
+**Evolution:**
+*  Méningite d'allure bactérienne traitée par antibiothérapie adaptée un mois après l'intervention.
+*  Aggravation neurologique brutale deux semaines après l'intervention. Bilan neuroradiologique : énorme récidive tumorale avec diffusion leptoméningée massive associée à une hémorragie intraparenchymateuse et intraventriculaire.
+*  Décès deux mois après la réapparition des signes cliniques, soit moins d'un an après la première intervention et vingt-cinq ans après la première intervention.
+
+**Discussion:** 
+Ce cas clinique illustre la récurrence d'une mélanomatose méningée malgré une intervention chirurgicale initialement réussie. La diffusion leptoméningée et l'hémorragie cérébrale ont conduit à un pronostic fatal rapidement.
+
+**Conclusion:**
+Les mélanomatoses méningées sont des tumeurs rares mais agressives. La surveillance à long terme des patients ayant subi une intervention chirurgicale est cruciale. La récidive et la diffusion sont possibles, nécessitant une prise en charge multidisciplinaire et une vigilance accrue.
+
+
+
+

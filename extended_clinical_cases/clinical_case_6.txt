@@ -1,0 +1,67 @@
+##  Cas Clinique : Madame FS
+
+**Service:**  Gynécologie Obstétrique, Hôpital [Hôpital Name], [City Name]
+
+**Patient:** Madame FS, 29 ans, primipare, sans antécédents particuliers, référée à notre service pour oligoamnios sévère avec Retard de Croissance Intra-utérine (RCIU) en cours de grossesse de 30SA + 2 jours.
+
+**Motif de consultation:**  Oligoamnios sévère avec RCIU.
+
+**Antécédents:** 
+* Primigeste
+* Aucun antécédent obstétrical ou médical significatif.
+
+**Examen clinique à l'admission:**
+
+* Patient consciente, stable sur le plan hémodynamique et respiratoire.
+* Tension artérielle : 11/6 mmHg.
+* Labstix positive à 4 croix.
+* Examen gynéco-obstétrical : 
+    * Hauteur utérine petite par rapport à l'âge gestationnel.
+    * Bruits cardiaques fœtaux présents et réguliers.
+    * Pas de contractions utérines.
+
+**Bilan initial:**
+
+* Bilan de pré-éclampsie : normal sauf une protéinurie urinaire de 24h (PU24H) franchement positive à 4,5 g/24h.
+* Fonction rénale correcte.
+* Échographie obstétricale : RCIU sévère avec anamnios. Estimation du poids fœtal à 524 g.
+
+**Evolution:**
+
+* Surveillance clinique biologique éclectique et radiologique.
+* Aggravation de la PU24H : 10/4,5 g.
+* Tension artérielle toujours correcte.
+* Diurèse conservée.
+* Bilan de pré-éclampsie de contrôle : normal.
+* Rythme Cardiaque Fœtal (RCF) micro-oscillant aréactif.
+
+**Diagnostic:** RCIU sévère avec anamnios sur néphropathie maternelle en cours de grossesse de 30SA.
+
+**Evolution après 3 jours:** Survenue d'une MFIU (Malformation Fœtale Intra-utérine).
+
+**Traitement:**
+
+* Dégagement de la poche des eaux.
+* Mise en route de l'induction du travail par misoprostol selon les recommandations FIGO 2012 : 25 µg par voie vaginale toutes les 6 heures pendant 24 heures (4 prises = 100 µg).
+* 6 heures après la 4ème prise : début des contractions utérines espacées sans modifications cervicales ni rupture de la poche des eaux.
+* 24 heures après la 4ème prise : contractions utérines plus rapprochées et plus intenses avec rupture de la poche des eaux.
+* 2 heures après : douleurs pelviennes continues. 
+* Examen vaginal : col dilaté à un doigt, effacé à 30%, poche des eaux rompue, saignement minime de faible abondance.
+* Examen général : Pas d'altération de l'état hémodynamique.
+
+**Suivi:**
+
+* L'évolution sera surveillée en continu.
+
+**Conclusion:**
+
+Le cas de Madame FS est une situation complexe nécessitant une prise en charge minutieuse. Le diagnostic d'un RCIU sévère avec anamnios sur néphropathie maternelle, aggravé par une MFIU, nécessite une surveillance étroite et une intervention rapide pour assurer la sécurité de la mère et du fœtus.
+
+**Propositions thérapeutiques:**
+
+* Surveillance continue du RCF et de l'état hémodynamique de la patiente.
+* Continuation de l'induction du travail par misoprostol.
+* Préparation à une éventuelle intervention chirurgicale (césarienne) en fonction de l'évolution.
+
+
+

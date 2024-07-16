@@ -1,0 +1,61 @@
+##  Cas Clinique : Embolie Pulmonaire chez une Femme Jeune 
+
+**Patient**: Mme Hélène Martin, âgée de 48 ans, 
+**Date de consultation**: 20 octobre 2023
+**Service**: Urgences 
+
+**Motif de consultation**: Douleur thoracique survenant postprandiale depuis 48 heures. 
+
+**Antécédents médicaux**: 
+* Chirurgie d'hernie discale il y a 20 jours.
+* Pas d'antécédent d'intoxication tabagique.
+* Aucun voyage récent.
+
+**Histoire de la maladie**:
+Mme Martin décrit l'apparition brutale d'une douleur thoracique, d'allure angineuse, il y a 48 heures. La douleur était maximale après le repas et s'accompagnait d'une légère fièvre. Elle a connu une amélioration spontanée transitoire, mais la douleur a recrudescé, la motivant à consulter aux urgences.
+
+**Examen clinique à l'admission**:
+* Tension artérielle: 140/85 mmHg
+* Fréquence cardiaque: 147 battements par minute
+* SaO2 à l'air ambiant: 96%
+* Auscultation cardiopulmonaire: tachycardie, sans autre particularité.
+* Examen physique général: sans signe d'insuffisance cardiaque. Mollets souples et indolores.
+
+**Examens complémentaires**:
+* Electrocardiogramme: rythme régulier sinusal à 140 bpm, bloc de branche droit incomplet et extrasystolies ventriculaires isolées.
+* Radiographie thoracique: sans anomalie.
+* Bilan biologique:
+    * Créatinine: 8,20 mg/l 
+    * Hémoglobine: 14,2 g/dl
+    * Troponine hypersensible: 529 pg/ml (élévée)
+    * BNP: 1020 ng/L (élevé)
+    * CRP: 7,90 mg/L (élevé)
+* Echocardiographie transthoracique:
+    * Dilatation des cavités droites.
+    * Hypocinésie de la paroi libre du ventricule droit.
+    * Cinétique paradoxale du septum interventriculaire.
+    * Ventricule gauche non dilaté, non hypertrophié, fonction systolique conservée.
+    * Pas de valvulopathie mitroaortique.
+* Angioscanner thoracique: embolie pulmonaire bilatérale et extensive, prédominant à droite.
+
+**Diagnostic**: Embolie pulmonaire de gravité intermédiaire chez une femme jeune.
+
+**Traitement**:
+* Anticoagulation efficace par héparine non fractionnée par voie intraveineuse au pousse seringue.
+* Thrombolyse intraveineuse par Ténéctéplase en raison d'une tendance à l'hypoxémie sans véritable choc.
+
+**Evolution**:
+* Amélioration de la saturation en oxygène, diminution de la troponine et du taux de BNP.
+* Bonne tolérance du traitement thrombolytique, sans signe d'hémorragie.
+* Regression de la dysfonction ventriculaire droite à 36 heures après la thrombolyse.
+* Disparition totale des thrombus artériels pulmonaires à 6 mois.
+
+
+
+**Conclusion**:
+Ce cas clinique illustre le diagnostic et le traitement d'une embolie pulmonaire chez une femme jeune, avec une présentation atypique.  Le diagnostic a été confirmé par l'angioscanner thoracique et le traitement a été efficace, avec une bonne récupération pour la patiente. 
+
+
+**Figure 1 & 2**: (Figures à insérer - illustrations de l'angioscanner thoracique montrant l'embolie pulmonaire bilatérale)
+
+**Figure 3**: (Figure à insérer - illustration de l'angioscanner pulmonaire réalisé à 6 mois montrant la disparition des thrombus artériels pulmonaires) 

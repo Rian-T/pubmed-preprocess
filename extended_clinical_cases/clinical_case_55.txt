@@ -1,0 +1,72 @@
+##  Cas Clinique : Madame Dupont, 28 ans
+
+**Date :** 2023-10-26
+
+**Service :** Gynécologie-Obstétrique
+
+**Patient :** Madame Marie Dupont, 28 ans, originaire de Lyon, cadre de santé, vivant en couple, enceinte de 20 semaines et 3 jours.
+
+**Motif de consultation :** Douleur de la fosse iliaque droite depuis 6 jours, en contexte de grossesse.
+
+**Antécédents :**
+
+* Grossesse évolutive sans complications particulières jusqu'à présent.
+*  Antécédent de deux grossesses terminées par avortement spontanée à 8 et 12 semaines, respectivement.
+* Pas d'antécédents médicaux ou chirurgicaux particuliers.
+
+**Examen clinique :**
+
+* **Etat général:** Bon.
+* **Temperature:** 37°C
+* **Examen abdominal:** Sensibilité palpable en fosse iliaque droite, signe de Rovsing positif. Pas de défense musculaire, de masse palpable ni de douleur à la percussion.
+* **Examen gynécologique:**
+    * Utérus: relâché, sans anomalie palpable.
+    * Col: macroscopiquement sain, long, fermé, postérieur. Absence de métrorragies ou leucorrhées.
+* **Auscultation pulmonaire et cardiaque:** Normale.
+
+**Examens complémentaires :**
+
+* **Échographie abdominale:**
+    * Grossesse monofoetale évolutive à 20 semaines et 3 jours avec biométrie conforme au terme.
+    * Placenta homogène, normalement inséré.
+    * Liquide amniotique en quantité normale.
+    * Longueur cervicale à 40 mm.
+    * Reins bien différenciés, aux contours réguliers, sans lésion apparente.
+    * Distension pyélo-calicielle droite de contenu transonore sans obstacle lithiasique décelable.
+    * Appendice normal.
+    * Ovaire droit superficiel sous la paroi abdominale, de taille normale, non vascularisé au Doppler, avec douleur acquise à la pression au passage de la sonde. Présence d'une lame d'épanchement péri-ovarien.
+    * Ovaire gauche de taille normale, folliculaire et bien vascularisé au Doppler.
+* **Biologie:**
+    * Numération formule sanguine: sans hyperleucocytose.
+    * CRP: normale.
+    * ECBU: négatif.
+
+**Diagnostic :**
+
+* Torsion d'annexe droite avec nécrose.
+* Appendicite aiguë.
+
+**Conduite à tenir :**
+
+* Intervention chirurgicale en urgence sous anesthésie générale par une incision de Mac Burney.
+
+**Intervention chirurgicale :**
+
+* Ovariectomie droite.
+* Appendicectomie.
+
+**Post-opératoire :**
+
+* Suite opératoire simple tant sur le plan obstétrical que chirurgical.
+* Pronostic d'accouchement par voie basse à terme favorable.
+
+**Conclusion :**
+
+Ce cas clinique met en évidence l'importance d'un examen clinique minutieux et d'une prise en charge rapide des douleurs abdominales chez la femme enceinte. La torsion d'annexe droite est une urgence chirurgicale qui peut entraîner des complications graves, notamment la nécrose ovarienne et la péritonite.
+
+
+**Figure 1 :**  Échographie abdominale montrant l'ovaire droit nécrosé tordu avec lame d'épanchement péri-ovarien.
+
+**Figure 2 :** Photo d'intervention chirurgicale montrant l'ovaire droit nécrosé tordu et l'appendice d'aspect inflammatoire.
+
+

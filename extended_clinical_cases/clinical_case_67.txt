@@ -1,0 +1,68 @@
+## Cas Clinique: Mme KR
+
+**Mme KR**, âgée de 71 ans, a été admise en hôpital en mars 2003 pour une fièvre nocturne associée à une asthénie importante, un amaigrissement non chiffré et des arthralgies inflammatoires bilatérales des chevilles. 
+
+**Antécédents:** 
+- Aucun antécédent particulier notable.
+
+**Examen à l'admission:**
+* Taille: 1,58m
+* Poids: 44kg (IMC: 17.5)
+* Tension artérielle: 130/70 mmHg
+* Pouls: 76 bpm, régulier, symétrique
+* Examen cardio-pulmonaire, cutané et neurologique normal.
+* Absence d'adénopathie palpable ni d'organomégalie.
+* Examen ophtalmologique: Uvéite antérieure associée à un syndrome sec.
+
+**Bilan biologique:**
+* Vitesse de sédimentation (VS): 120 mm à la première heure
+* C-réactive protéine (CRP): 50 mg/L
+* Hypergammaglobulinémie: 19 g/L
+* Lymphopenie: 1200 éléments/mm3
+* Plaquettes: 455 000 éléments/mm3
+* Hémoglobine: 13 g/dL
+* Insuffisance rénale subclinique: créatinémie à 170 µmol/L, sans anomalie des sédiments urinaires.
+* Cholestase hépatique: gamma GT à 4N, phosphatase alcaline à 2N.
+* Calcémie et calciurie normales.
+* Bilan immunologique négatif (recherche de facteurs rhumatoïdes, d'anticorps antinucléaires, d'anticorps anticytoplasme des polynucléaires neutrophiles et d'anticorps antimithochondries).
+* Taux sérique de l'enzyme de conversion de l'angiotensine (ACE): élevé (100 UI/L (n < 60).
+* Sérologies des hépatites virales B et C négatives.
+* Anergie tuberculinique.
+
+**Explorations complémentaires:**
+* Recherche de BK dans les crachats, les urines et le tubage gastrique (examen direct et cultures) négative.
+* Radiographie pulmonaire normale.
+* Electrocardiogramme normal.
+* Explorations fonctionnelles respiratoires normales.
+* Échographie abdomino-pelvienne normale.
+* Myélogramme normal.
+* Biopsie de l'artère temporale normale.
+* Biopsie des glandes salivaires accessoires: sialadénite granulomateuse.
+
+**Diagnostic:** Sarcoïdose avec atteinte rénale, hépatique, oculaire, articulaire et signes généraux.
+
+**Traitement:**
+* Corticothérapie à raison de 1mg/kg/j, entrainant une amélioration clinique et biologique (régression du syndrome inflammatoire, normalisation du bilan hépatique et de la créatinine sanguine).
+* Arrêt de la corticothérapie au bout de 2 ans.
+
+**Evolution:**
+
+* 1 an après l'arrêt de la corticothérapie, Mme KR est hospitalisée à nouveau pour des céphalées fronto-temporales pulsatiles et insomniantes associées à une claudication massétérienne et un amaigrissement de 2 kg évoluant depuis deux semaines.
+* A l'admission, elle était apyrétique, les pouls temporaux étaient faibles.
+* Examen ophtalmologique normal.
+* Le reste de l'examen clinique était sans particularité.
+* Syndrome inflammatoire retrouvé avec une VS à 70 mmH1 et une CRP à 60mg/l, des phosphatases alcalines à 1,5N.
+* Le reste du bilan biologique était normal.
+* Radiographie du thorax normale.
+* Biopsie de l'artère temporale: artérite temporale à cellule géante.
+* Diagnostic de maladie de Horton retenu.
+
+**Traitement:**
+* Nouvelle corticothérapie (1mg/kg/j) maintenue pendant un mois avec une bonne évolution clinique et biologique.
+
+**Recol actuel:** 6 ans.
+
+
+This case presents a 71-year-old woman with a history of sarcoidosis who develops a new presentation consistent with giant cell arteritis. 
+
+

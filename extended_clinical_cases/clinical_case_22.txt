@@ -1,0 +1,39 @@
+##  Cas clinique : Monsieur Bertrand Garcia, 67 ans
+
+**Service :** Hématologie
+
+**Motif de consultation :** Suspicion de myélome multiple
+
+**Antécédents :** 
+
+Monsieur Bertrand Garcia, âgé de 67 ans, est un retraité ayant une histoire familiale marquée par des maladies oncologiques. Son père est décédé d'un carcinome du poumon à l'âge de 72 ans et sa sœur a été diagnostiquée d'un lymphome non hodgkinien à 55 ans. Monsieur Garcia est non-fumeur, a une consommation modérée d'alcool et pratique une activité physique régulière. 
+
+**Signes cliniques :**
+
+Monsieur Garcia se plaint d'une fatigue importante persistante depuis plusieurs mois, accompagnée d'une perte de poids de 5 kg en six semaines. Il présente également des douleurs osseuses, localisées au niveau des hanches et du dos. Son examen clinique révèle une pâleur cutanée et une masse palpable au niveau du ganglion cervical gauche. 
+
+**Examens complémentaires :**
+
+* **Hémogramme :**  Anémie normocytaire normochromique (Hb = 10.5 g/dL), leucocytose (WBC = 12 000/mm3) avec une augmentation des lymphocytes (25%).
+* **Electrophorèse des protides sériques :** Présence d'un pic effilé à base étroite migrant dans la zone des béta globulines.
+* **Immunofixation des protéines sériques :** Présence d'une double bande monoclonale sur la piste des IgA et sur la piste des Kappas.
+* **Immunofixation après traitement réducteur du sérum par le BME :** Disparition de la deuxième bande monoclonale, confirmant l'immunoglobuline monoclonale de type IgA Kappa à deux niveaux de polymérisation.
+* **Radiographie des os :** Présence d'une lyse osseuse des côtes et des métastases osseuses.
+
+**Diagnostic :**
+
+Myélome multiple de type IgA Kappa à deux niveaux de polymérisation.
+
+**Traitement :**
+
+Monsieur Garcia sera orienté vers le service d'oncologie pour la mise en place d'un traitement adapté.  
+
+
+**Suivis :**
+
+Monsieur Garcia sera suivi régulièrement en consultation pour surveiller l'évolution de sa maladie et ajuster son traitement en fonction de sa réponse. Des analyses sanguines et des radiographies des os seront réalisées régulièrement pour évaluer l'efficacité du traitement et détecter d'éventuelles complications.
+
+
+**Note :** 
+
+Ce cas clinique est un exemple fictif et ne doit pas être considéré comme un guide pour le diagnostic ou le traitement. 

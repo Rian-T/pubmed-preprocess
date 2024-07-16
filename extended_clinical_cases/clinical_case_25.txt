@@ -1,0 +1,55 @@
+## Cas clinique : Mme Sophie André 
+
+**Patient**: Mme Sophie André, 30 ans, non fumeuse, sans antécédents pathologiques significatifs, ni traumatisme thoracique récent, ni exposition connue à la tuberculose.
+
+**Motif de consultation**: Douleur thoracique aiguë.
+
+**Description**:
+
+Mme André s'est présentée aux urgences avec une douleur thoracique d'installation brutale, décrite comme un "coup de poignard", sans facteur déclenchant apparent. La douleur était associée à une dyspnée d'effort stade II de Sadoul et à une toux sèche. 
+
+**Examen physique**:
+
+L'état général de la patiente était bon. Son envergure sur la taille était de 0,9 sans signes d'hyperlaxité ligamentaire. L'examen pleuro-pulmonaire objectivait un syndrome d'épanchement aérien occupant la totalité de l'hémi-thorax gauche. La palpation du thorax révélait une diminution de la mobilité respiratoire à gauche et une douleur à la pression sur le côté gauche. 
+
+**Examens complémentaires**:
+
+* **Radiographie thoracique de face**: objectivait une hyperclarté sans trame vasculaire visible occupant la totalité de l'hémi-thorax gauche avec une opacité ronde, bien limitée, mesurant 11 cm dans son grand axe, homogène siégeant en axillaire gauche semblant se raccorder à angles aigus avec la paroi thoracique. 
+
+* **Drainage thoracique en axillaire gauche**: a été réalisé en urgence. Le cliché thoracique post-drainage montrait un retour du poumon à la paroi avec persistance de l'opacité ronde.
+
+* **Evolution**: Au 2ème jour du drainage, une image hydro-aérique occupant la totalité de l'hémi-thorax gauche, en rapport avec un hydro-pneumothorax, était observée.  La résolution était obtenue sous aspiration continue.
+
+**Bilan étiologique**:
+
+* **Hémogramme, CRP, ionogramme sanguin**: normaux
+* **IDR à la tuberculine**: négative à 0 mm
+* **3 recherches de bacille de Koch (BK) dans les expectorations**: négatives
+* **Sérologie hydatique**: négative
+* **Taux de Ca 125**: normal à 27 UI/ml
+* **Ponction pleurale**: liquide exsudatif, jaune citrin à prédominance lymphocytaire.
+
+* **Bronchoscopie**: état inflammatoire diffus de 1er degré sans bourgeon ni granulome visible.
+    * **Recherche de BK dans le liquide d'aspiration bronchique**: négative
+    * **Culture de BK dans le liquide bronchique**: également négative
+
+* **TDM thoracique**: objectivait une opacité de densité liquidienne basale gauche surmontée d'une hyperclarté au sein de laquelle existait une image tissulaire bien arrondie, difficilement individualisable sur les coupes parenchymateuses, mesurant à peu près 10 cm dans son grand axe.
+
+
+**Diagnostic et traitement**:
+
+Devant cette opacité de grande taille d'origine inconnue, une exérèse complète a été réalisée par thoracotomie postéro-latéral gauche.
+
+**Anatomopathologie**:
+
+L'étude de la pièce opératoire a révélé une masse blanc nacré, de consistance ferme et bien limitée, pesant 60 g et mesurant 10 x 9 x 2,5 cm. L'examen microscopique montrait une prolifération carcinomateuse bénigne faite de chondroblastes, de chondrocytes réguliers, de lobules graisseux et de tissu cartilagineux bordé d'une muqueuse de type respiratoire régulière. Cette configuration était compatible avec un hamartochondrome pulmonaire.
+
+**Suivi**:
+
+Les suites post-opératoires de Mme André étaient simples. Elle a été suivie en consultation spécialisée et aucun signe de récidive n'a été observé à ce jour.
+
+
+
+**Commentaires**:
+
+Le cas de Mme André illustre un exemple rare de hamartochondrome pulmonaire.  La présentation clinique, avec une douleur thoracique aiguë et un épanchement aérien, était suggestive d'une pathologie pulmonaire. Le diagnostic a été confirmé par l'imagerie et l'anatomopathologie. La thoracotomie postéro-latérale a permis une excision complète de la masse et une récupération complète. Ce cas souligne l'importance d'une évaluation exhaustive des patients présentant des symptômes thoraciques pour exclure des pathologies rares et complexes.

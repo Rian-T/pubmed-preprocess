@@ -1,0 +1,61 @@
+##  Cas clinique : Mme Dubois, 62 ans
+
+**Date d'admission :** 20/10/2023
+**Numéro de dossier :** 78542
+
+**Antécédents:**
+
+Mme Dubois est une femme de 62 ans, native de Lyon, sans antécédents notables. 
+
+**Motif d'admission :**  Douleurs articulaires et limitation fonctionnelle du genou gauche suite à une pseudarthrose post-fracturale.
+
+**Histoire de la maladie :**
+
+Deux ans avant son admission, Mme Dubois a été victime d'un accident de la route. Elle était passagère arrière dans une voiture qui a été percutée par une autre. L'impact a été sur les deux genoux. Initialement, au sein d'un établissement de soins autre que celui-ci, un bilan radiographique a objectivé une fracture sus et intercondylienne des deux fémurs. 
+Le traitement a consisté en une pose de plaque anatomique de l'extrémité distale du fémur de chaque côté.
+
+L'évolution a été favorable du côté droit avec une consolidation complète de la fracture. Cependant, du côté gauche, une pseudarthrose s'est installée, entraînant une limitation fonctionnelle importante.
+
+**Examen clinique :**
+
+* **Général:** Mme Dubois est une femme de morphologie corpulente, présentant un poids de 80 kg pour une taille de 1.65 m. Son état général est bon, elle est consciente, orientée et répond à toutes les questions.
+* **Articulation du genou gauche :** 
+    * **Douleur:** Douleur diffuse et intense à l'articulation du genou gauche, aggravée par le mouvement et la pression. Elle décrit la douleur comme "douloureuse et brûlante".
+    * **Fonctionnement:** 
+        * **Mobilité:** La mobilité est fortement limitée, avec une extension à 10° et une flexion à 30°. Il existe une gêne importante lors de la marche, rendant l'activité quasiment impossible.
+        * **Swelling:**  Epanchement inflammatoire visible au niveau de l'articulation du genou gauche.
+        * **Sensibilité:** Sensibilité à la palpation sur toute la surface de l'articulation.
+* **Examen neurologique:** Normal.
+
+**Examens complémentaires:**
+
+* **Radiographie du genou gauche:**  Confirmation de la pseudarthrose avec un espacement entre les fragments osseux, une image de non-union et une présence de calciques. (Figure 1)
+* **Bilan sanguin:**  Normal.
+* **Analyse urinaire:**  Normal.
+
+**Diagnostic :**
+
+Pseudarthrose du genou gauche post-fracturale, suite à un accident de la route.
+
+**Orientation thérapeutique :**
+
+* **Traitement conservateur:**  
+    * Prise en charge de la douleur avec des antalgiques (paracétamol et ibuprofène) et des appuis anti-inflammatoires locaux (gels à base de diclofenac).
+    * Physiothérapie pour maintenir la mobilité minimale du genou gauche, améliorer la force musculaire et prévenir l'atrophie.
+    * Repose et immobilisation de l'articulation avec attelle.
+* **Chirurgie:**  Si le traitement conservateur échoue à réduire la douleur et améliorer la fonction, une intervention chirurgicale sera envisagée.  L'intervention consistera en un repositionnement osseux et une ostéosynthèse avec fixation interne.
+
+**Prognostic:**
+
+Le pronostic dépendra de la gravité de la pseudarthrose, de la réponse au traitement et de la participation active de la patiente à la rééducation. Une réintégration fonctionnelle complète est possible avec un traitement approprié et une rééducation diligent.
+
+
+**Figure 1:** Radiographie du genou gauche montrant la pseudarthrose. 
+
+
+
+**Remarques:** 
+
+* Cette description est une fiction médicale et ne doit pas être considérée comme un diagnostic ou un conseil médical.
+* Il est important de consulter un professionnel de santé qualifié pour toute question ou problème médical.
+

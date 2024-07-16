@@ -1,0 +1,42 @@
+## Cas clinique : Mme R.K
+
+**Mme Renée Klein**, âgée de 25 ans, sans antécédents particuliers, a consulté en urgence le service des urgences pour des douleurs intenses localisées à l'hypochondre droit. Son teint était pâle et elle paraissait douloureuse. 
+
+**Examen clinique:**
+
+* Tachycardie à 98 bpm
+* Tension artérielle: 120/80 mmHg
+* Respiration régulière à 18 cycles/minute
+* Auscultation pulmonaire: claire à tous les termes
+* Palpation abdominale: douleur à l'hypochondre droit, défense musculaire présente
+
+**Investigations initiales:**
+
+* **Échographie abdominale:**  Détection d'une masse hypoéchogène, de forme arrondie et d'une taille de 7,5 cm de diamètre, située au niveau du rein droit. La masse présente une texture homogène, sans signes d'écho vascularisé. La fonction rénale semblait normale.
+
+**Suivi:**
+
+Suite à l'échographie, un scanner abdominal a été réalisé avec injection de produit de contraste. Le scanner a confirmé la présence d'une masse de 7 cm de grand axe polaire supérieur hypodense. Cette lésion était faiblement rehaussée après injection de produit de contraste. Le rein controlatéral était normal.
+
+**Intervention chirurgicale:**
+
+Compte tenu des résultats de l'échographie et du scanner, une néphrectomie totale élargie droite a été réalisée. 
+
+**Examen anatomopathologique:**
+
+*  L'examen macroscopique de la pièce opératoire a révélé une volumineuse tumeur de couleur jaune-rose avec quelques foyers hémorragiques.
+*  L'examen histologique a montré une large prolifération carcinomateuse au sein du parenchyme rénal, constituée de nappes de travées et de lobules de cellules tumorales de grand taille, d'aspect "végétal" avec un cytoplasme éosinophile et des noyaux entourés d'un halo clair. Les noyaux étaient ronds, monomorphes, discrètement atypiques. Il n'y avait aucune composante sarcomatoide. L'ensemble des résultats histologiques étaient en faveur d'un carcinome à cellules chromophobes rénales.
+
+**Conclusion:**
+
+Le cas de Mme R.K illustre une forme rare de cancer du rein, le carcinome à cellules chromophobes,  diagnostiqué à un jeune âge. Le pronostic est généralement favorable après une néphrectomie totale élargie. 
+
+
+
+**Figure 2:** (à insérer ici le cliché du scanner abdominal)
+**Figure 3:** (à insérer ici la photo de la pièce opératoire)
+**Figure 4:** (à insérer ici la photo de la coupe histologique)
+
+
+
+

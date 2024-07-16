@@ -1,0 +1,70 @@
+##  Cas Clinique: Monsieur Gabriel Moreau
+
+**Date:** 2023-10-26
+
+**Service:** Oncologie
+
+**Médecin traitant:** Dr. Anne Dubois
+
+**Patient:** Monsieur Gabriel Moreau, né le 15 Janvier 1947, âgé de 76 ans, résidant à [Ville], France.
+
+**Motif de consultation:** Altération de l'état général, douleurs osseuses diffuses, amaigrissement
+
+**Antécédents:**
+
+* Aucun antécédent pathologique particulier connu.
+
+**Médicaments:**
+
+* Aucun médicament en cours.
+
+**Allergies:**
+
+* Aucune connue.
+
+**Tabac:** 
+
+* Ex-fumeur (arrêté il y a 10 ans)
+
+**Alcool:**
+
+* Consommateur modéré d'alcool (1 verre de vin par jour).
+
+**Familliaire:**
+
+* Père décédé à l'âge de 82 ans d'une insuffisance cardiaque.
+* Mère décédée à l'âge de 90 ans d'un accident vasculaire cérébral.
+* Aucun cas familial d'cancer.
+
+**Historique:**
+
+Monsieur Moreau a présenté une altération de son état général il y a 6 semaines, accompagné de douleurs osseuses diffuses non localisées et d'un amaigrissement important. Il a perdu 10 kg en un mois. 
+
+**Examen clinique:**
+
+* Etat général altéré avec fatigue et asthénie.
+* Tentation et pâleur cutanée.
+* Douleur osseuse diffuse lors de la palpation.
+* Présence de lésions nodulaires violacées de 1 à 2 cm sur les deux jambes (au niveau du tibia et du fémur) et les deux pavillons de l'oreille. 
+* Exploration des autres systèmes sans particularité notable.
+
+**Bilan radiologique:**
+
+* Radiographie du crâne: Présence de lacunes lytiques multiples et diffus au niveau du crâne, notamment au niveau des os pariétaux.
+* Radiographie des membres: Présence de lésions lytiques diffuses au niveau des os longs des deux jambes.
+
+**Conclusion préliminaire:**
+
+* Le tableau clinique et radiologique de Monsieur Moreau suggère fortement un mélanome métastatique.
+
+**Prochaines étapes:**
+
+* Prise de sang pour évaluer la fonction rénale et hépatique.
+* Biopsie des lésions nodulaires de la peau et des os pour confirmation du diagnostic.
+* Scintigraphie osseuse pour évaluer l'étendue des métastases.
+* Consultation avec un oncologue pour proposer un plan de traitement adapté.
+
+
+ 
+
+

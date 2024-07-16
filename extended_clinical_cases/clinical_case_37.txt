@@ -1,0 +1,80 @@
+##  Cas Clinique : Madame Bernadette Moreau
+
+**Données Demographiques:**
+
+* **Nom:** Moreau Bernadette
+* **Âge:** 71 ans
+* **Sexe:** Féminin
+* **Date d'admission:** 15 Août 2003
+* **Service:** Médecine Interne
+
+**Antécédents:**
+
+* Fracture de la hanche gauche traitée par prothèse.
+* Acrosyndrome des mains (confirmé par capillaroscopie) : aspect de microangiopathie organique avec présence de mégacapillaires.
+
+**Motif d'hospitalisation:**  
+
+Oedème du visage, des membres supérieurs et un érythème orbitaire évoluant depuis quinze jours.
+
+**Examen clinique:**
+
+* **Tête et cou:** Lésions érythémato-maculeuses mal limitées au niveau des pommettes et des paupières avec œdème à ce niveau.
+* **Thorax:**  Respiration régulière, sans râles.
+* **Abdomen:**  Palpation souple et non douloureuse.
+* **Membres:** Edeme au niveau de la face antérieure des deux genoux et des jambes. 
+* **Système neurologique:** Absence de déficit musculaire des ceintures avec signe du tabouret négatif.
+
+**Examens complémentaires:**
+
+* **Hémogramme:** Hémoglobine à 11,6 g/dl, leucocytes et plaquettes normales.
+* **Biologie:**
+    * Vitesse de sédimentation accélérée à 67 mm la première heure.
+    * CRP négative.
+    * Transaminases normales.
+    * Anticorps anti-nucléaires et anticorps anti-phospholipides négatifs.
+    * Taux de CPK élevé à 665 UI/l, LDH à 764 UI/l et aldolases à 8,22 UI/l.
+* **EMG:**  Tracé myogène riche et peu ample au niveau des deltoïdes compatibles avec une DPM peu sévère.
+* **Biopsie musculaire:** Présence de quelques foyers inflammatoires au niveau des septa inter fasciculaire et dans l’endomysium évoquant une myopathie inflammatoire.
+* **Bilan à la recherche d’une néoplasie profonde:**
+    * Dosage normal des marqueurs tumoraux.
+    * ORL sans anomalies.
+    * Radiographie thoracique : syndrome interstitiel pouvant évoquer une atteinte pulmonaire dans le cadre de sa maladie.
+    * Échographie abdominopelvienne, échographie mammaire et fibroscopie oeso-gastro-duodénale normales.
+* **Électrophorèse des protéines sériques:** Présence d'une fraction anormale migrant en zone gamma.
+* **Immunoélectrophorèse:** Présence de chaînes légères kappa et lambda dans le sang et dans les urines liées à des taux élevés d'immunoglobulines de type IgG (16,82 g/l) avec un taux subnormal des autres classes d'immunoglobulines.
+* **Myélogramme:** Normal.
+* **Bilan radiologique osseux:** Normal.
+
+**Diagnostic:**
+
+*  Dermatomyosite (DPM) associée à une gammapathie monoclonale bénigne.
+
+**Traitement:**
+
+*  Corticothérapie à forte dose: prednisone à la dose de 1mg/kg/j pendant six semaines avec dégression progressive de 5 mg à chaque semaine jusqu'à une dose d'entretien de 10 mg/j.
+
+**Evolution:**
+
+*  Favorable pour sa DPM avec marquée par amélioration progressive des lésions érythémato-oedémateuses et normalisation des enzymes musculaires.
+*  Développement d'un diabète cortico-induit traité par des anti-diabétiques oraux.
+*  Suivi régulier à la consultation externe durant trois années successives puis perte de vue.
+* **Recul évolutif:** 39 mois.
+
+
+
+**Commentaires:**
+
+Ce cas clinique met en évidence l'importance d'un bilan complet pour identifier les causes de l'oedème et des lésions cutanées. 
+
+La présence d'acrosyndrome et de l'aspect microangiopathique observé à la capillaroscopie oriente vers une pathologie auto-immune.
+
+La biopsie musculaire et l'EMG confirment le diagnostic de DPM.
+
+La présence d'une gammapathie monoclonale bénigne souligne la complexité du tableau clinique et la nécessité d'une surveillance étroite.
+
+Le diabète cortico-induit met en lumière les effets secondaires potentiels des corticoïdes. 
+
+
+
+

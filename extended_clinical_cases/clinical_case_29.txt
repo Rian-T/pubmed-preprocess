@@ -1,0 +1,51 @@
+##  Cas clinique : Madame A.M.
+
+**Service de gynécologie-obstétrique, Hôpital Cochin, Paris**
+
+**Date :** 2023-10-27
+
+**Patient :** Madame A.M., 28 ans
+
+**Antécédents médicaux et chirurgicaux :** 
+* Deux enfants vivants, âgés de 5 et 3 ans.
+* Troisième grossesse, troisième accouchement.
+* Aucun antécédent médical ou chirurgical notable.
+
+**Motif d’admission :**  Travail et accouchement
+
+**Historique :**
+La patiente est admise en salle de travail à 8 cm de dilatation cervicale, présentation céphalique fixée, poche des eaux intacte. 
+L'estimation de la grossesse est à 39 semaines d'aménorrhées.  La patiente n'a pas bénéficié de suivi prénatal régulier. Une rupture artificielle des membranes est réalisée.
+
+**Evolution :**
+A 15 minutes de la rupture des membranes, la patiente présente un malaise avec perte de connaissance et une crise convulsive généralisée. 
+La tension artérielle chute à 8/4 mmHg. Une bradycardie fœtale est observée. Une réanimation immédiate est mise en place pour la mère.
+Une extraction instrumentale rapide du fœtus est réalisée. 
+* Apgar à la première minute : 3/10
+* Apgar à la cinquième minute : 6/10
+* Poids du nouveau-né : 3250g
+
+Malheureusement, la patiente présente une hémorragie de la délivrance avec arrêt cardiorespiratoire. Une délivrance artificielle est réalisée simultanément avec les mesures de réanimation. Des perfusions d'ocytocique et une administration rectale de 600µg de misoprostol sont effectuées.
+
+L'activité cardiaque de la patiente reprend après 5 minutes de réanimation.  Cependant, le saignement persiste, une atonie utérine se développe, et une coagulopathie de consommation (CIVD) est diagnostiquée. Une hystérectomie d'hémostase est donc réalisée.
+
+La patiente reçoit une transfusion sanguine massive :
+* 8 culots globulaires
+* 10 poches de plasma frais congelé
+
+L'état hémodynamique se stabilise, et le saignement s'arrête.
+
+**Conclusion :**
+
+Le cas de Madame A.M. illustre un scénario dramatique où un accouchement apparemment simple se complique rapidement par une hémorragie postpartum massive, une CIVD et un arrêt cardiorespiratoire nécessitant une intervention chirurgicale d'urgence. Le manque de suivi prénatal régulier semble avoir joué un rôle dans la dégradation rapide de la situation.
+
+**Suites :**
+
+* Surveillance intensive en réanimation.
+* Transfusion sanguine continue en fonction des besoins.
+* Gestion des complications liées à l'hystérectomie.
+* Prise en charge du nouveau-né né avec un Apgar à la première minute de 3/10.
+
+
+
+This fictional case study provides a detailed account of a complex delivery situation, highlighting the potential risks and complications that can arise during childbirth. It emphasizes the importance of prenatal care and the need for swift and decisive intervention in emergency situations.

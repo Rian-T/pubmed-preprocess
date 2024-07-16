@@ -1,0 +1,46 @@
+##  Cas clinique : Arthrose de l'épaule chez Madame Brigitte Martin
+
+**Patient:** Madame Brigitte Martin, âgée de 69 ans, retraitée, secrétaire médicale de profession. Droitière.
+
+**Adresse:** 12 rue du Cerisier, 75017 Paris
+
+**Né le:** 12 Avril 1954 à Lyon.
+
+**Motif de consultation:** Douleurs mécaniques bilatérales des épaules depuis 4 ans, invalidantes.
+
+**Antécédents:** Aucun antécédent pathologique notable. Absence de prise de corticoïdes. Pas de pathologie inflammatoire connue.
+
+**Anamnèse:** Madame Martin présente une douleur mécanique bilatérale des épaules depuis 4 ans, sans contexte traumatique connu. L'intensité de la douleur est évaluée à 5 sur l'échelle visuelle analogique (EVA) à droite et 6 à gauche. Cette symptomatologie devient progressivement invalidante, limitant toutes les activités quotidiennes, notamment les gestes nécessitant l'abduction.
+
+**Examen clinique:**
+
+* **Etat général:**  Bonne.
+* **Autonomie:**  Totale.
+
+* **Inspection des épaules:** Aspect normal des deux épaules, sans amyotrophie du deltoïde. 
+* **Amplitude des mouvements:** Limitation des amplitudes articulaires des deux épaules.
+    * Abduction: 50° à droite et 70° à gauche.
+    * Antépulsion: 60° à droite et 70° à gauche.
+    * Retropulsion: 25° à droite et 25° à gauche.
+    * Rotation externe: 10° à droite et 20° à gauche.
+
+**Bilan radiologique:**
+
+* **Radiographie standard des épaules:** Omarthrose avancée de l'articulation glèno-humérale, stade V selon la classification de Cruess. (Figure 2 e,f)
+
+* **TDM de l'épaule:** Réalisée comme complément du bilan radiologique avec reconstruction bidimensionnelle (2D) et tridimensionnelle (3D) pour un bilan précis du capital osseux de l'épaule, notamment de la glène. (Figure 2 g,h)
+
+**Diagnostic:** Omarthrose avancée bilatérale de l'articulation glèno-humérale, stade V selon Cruess.
+
+**Traitement:**
+
+* **Arthroplastie bilatérale totale de l'épaule (PTE inversée):** 
+    * Première intervention réalisée en 2008 à droite.
+    * Deuxième intervention réalisée en 2011 à gauche. 
+    *  Interventions réalisées par le même chirurgien au même centre hospitalier.
+
+**Évolution:**  Suite à l'intervention, Madame Martin a retrouvé une amplitude des mouvements normale et une diminution significative de la douleur. Elle est autonome et peut reprendre toutes les activités de la vie quotidienne.
+
+ **Conclusion:** L'arthroplastie inversée de l'épaule est une option thérapeutique efficace pour le traitement de l'arthrose avancée de l'épaule.
+
+

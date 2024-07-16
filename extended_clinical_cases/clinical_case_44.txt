@@ -1,0 +1,63 @@
+## Cas Clinique : Pyoderma Gangrenosum
+
+**Patient:** Monsieur Jean-Claude Diop, âgé de 68 ans
+
+**Service:** Médecine Interne, Centre Hospitalier Abass N'dao, Dakar, Sénégal
+
+**Histoire du Maladie:**
+
+Monsieur Diop a été admis à l'hôpital pour une lésion cutanée évolutive qui a débuté il y a 3 ans par une pustule sur la jambe gauche. Une débridement a été effectué dans une clinique privée, suivi d'un traitement antibiotique pendant un an sans succès. Le patient a également recours à la phytothérapie.  Malgré ces traitements, il a observé de nouvelles éruptions de lésions pustuleuses qui se sont agrandies et confluées, conduisant à des ulcérations à bords nets, hypertrophiques et violacés (Figure 1). 
+
+**Examen Clinique:**
+
+* Un ulcère de grande taille sur la jambe gauche, présentant des bords nets, une hypertrophie et une coloration violacée.
+* Une arthrite probablement septique du genou gauche.
+* Un séquestre osseux au niveau de la plaie.
+
+**Examens Paracliniques:**
+
+* **Biologie:** 
+    * Hyperleucocytose à polynucléaires neutrophiles à 42 000/mm3 avec myélémie à myélocytes et métamyélocytes (absence de blastose sanguine).
+    * Anémie normochrome normocytaire. 
+    * Biolgie de contrôle : Hyperleucocytose à 80 000/mm3 à polynucléaires neutrophiles.
+* **Ponction articulaire du genou gauche:** Aucun germe isolé.
+* **Biopsie cutanée:** 
+    * Un revêtement cutané ulcéré siège d'un tissu de granulation.
+    * Une couche fibrinoleucocytaire, sous-tendu d'un tissu conjonctif lâche richement vascularisé, congestif siège d'un infiltrat inflammatoire polymorphe riche en polynucléaire neutrophile et de quelques foyers de nécrose.
+* **Autres examens complémentaires:** Non concluants.
+
+**Diagnostic:**
+
+Pyoderma Gangrenosum.
+
+**Facteurs Favoriables:**
+
+* Effet Koebner (apparition de lésions à la suite de traumatismes).
+* Biopsie cutanée révélant un infiltrat inflammatoire polymorphe riche en polynucléaires neutrophiles.
+* Évolution défavorable malgré des antibiotiques et la phytothérapie.
+
+**Evolution Clinique:**
+
+* L'aggravation de l'état du patient, avec un épisode d'instabilité hémodynamique dû à un saignement abondant de la plaie lors d'un pansement.
+* Séquestrectomie.
+
+**Traitement:**
+
+* Corticothérapie à raison de 1mg/kg/jour.
+
+**Résultats du Traitement:**
+
+* Cicatrisation de la plaie.
+* Régression des paramètres biologiques, notamment l'hyperleucocytose.
+
+**Suivis:**
+
+* Suivi médical régulier pour l'asthme, la tumeur de la prostate et l'hypertension artérielle.
+
+
+**Remarques:**
+
+* La prise en charge du Pyoderma Gangrenosum est multidisciplinaire.
+* La corticothérapie reste le traitement de choix, mais d'autres options thérapeutiques peuvent être envisagées.
+
+

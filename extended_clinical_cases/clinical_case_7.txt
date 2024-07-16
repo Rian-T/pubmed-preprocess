@@ -1,0 +1,58 @@
+## Cas Clinique : Paragangliome Maligne chez une Jeune Femme de 29 Ans
+
+**Patient:** Madame Abena Ngouél, 29 ans, originaire du Cameroun, sans antécédents notables de maladies familiales.
+
+**Motif de Consultation:**  En mai 2011, Madame Ngouél consulte aux urgences pour des douleurs abdominales, des vomissements et des céphalées. 
+
+**Examen Clinique:**
+
+* **Tension Artérielle:** 200 mmHg (hypertension)
+* **Fréquence Cardiaque:** Tachycardie (plus de 100 battements par minute)
+* **Abdomen:** Souple, indolore, sans masse palpable. Aires ganglionnaires libres.
+* **Examen Somatique:** Sans particularités notables.
+
+**Examens Biologiques:**
+
+* **Chromogranine A:** 52,3 U/L (élévée)
+* **Neuron-Specific Enolase (NSE):** 16,2 ng/ml (élévée)
+* **Catécholamines Urinaires:** Positives
+    * **Noradrénaline Urinaire:** 399 ug/24h (élevé)
+    * **Normetanephrine Urinaire:** 4432 ug/24h (extrêmement élevé)
+
+**Imagerie:**
+
+* **IRM Abdominale:** Révèle un conglomérat ganglionnaire avec effet de masse sur l'axe iliaque primitif gauche.
+* **Scintigraphie MIBG-I131:** Fixation de l'isotope par la masse abdominale.
+
+**Intervention Chirurgicale:**
+
+Laparotomie exploratrice avec exérèse d'une masse de 12x10cm de l'organe de Zuckerkandl au niveau de la bifurcation de l'aorte.
+
+**Examen Anatomopathologique:**
+
+Paragangliome malin.
+
+**Étude Génétique:**
+
+Recherche de mutation du gène SDHB. Aucun résultat anormal (mutation, délétion ou duplication) n'est identifié, excluant une cause héréditaire.
+
+**Suivi:**
+
+Après six mois, récidive de la symptomatologie.
+
+
+**Discussion:**
+
+Ce cas clinique illustre la présentation clinique et la prise en charge d'un paragangliome malin chez une jeune femme. L'élévation des catécholamines urinaires et la fixation de la MIBG-I131 confirment le diagnostic. L'absence de mutation du gène SDHB suggère un paragangliome sporadique. La récidive après six mois met en évidence la nécessité d'un traitement multimodal comprenant des interventions chirurgicales et des traitements médicamenteux pour contrôler la maladie.
+
+
+
+**Prochaines Étapes:**
+
+* Imagerie complémentaire (IRM, PET-scan) pour évaluer l'étendue de la récidive.
+* Discussion avec un oncologue spécialisé en neuroendocrinologie pour déterminer le meilleur traitement multimodal.
+* Surveillance régulière des catécholamines urinaires et des autres marqueurs biologiques.
+
+ **Note:** Le présent cas clinique est fictif et ne représente pas nécessairement la réalité.
+
+

@@ -1,0 +1,64 @@
+##  Cas clinique de Mme Hélène Dubois
+
+**Patient**: Mme Hélène Dubois, âgée de 26 ans, nullipare, primigeste.
+
+**Motif de consultation**: Douleurs lombaires du côté droit, ictère et vomissements depuis 5 jours.
+
+**Antécédents**: Aucun antécédent pathologique notable.
+
+**Situation actuelle**: Admise à la salle d'accouchement pour contractions sur une grossesse gémellaire mal suivie, à 37 semaines d'aménorrhées selon la date des dernières règles.
+
+**Examen clinique**:
+
+* Consciente, mais fébrile à 39°C.
+* Pression artérielle à 140/90 mmHg.
+* Fréquence cardiaque à 100 battements par minute.
+* Ictère cutanéomuqueux marqué.
+* œdèmes des membres inférieurs modérés.
+* Examen obstétrical : dilatation cervicale à 5 cm, contractions utérines régulières.
+
+**Examen biologique**:
+
+* Groupe sanguin O Rh positif.
+* Hémoglobine à 13 g/dl.
+* Hyperleucocytose à 17000/mm3.
+* Plaquettes à 120000/mm3.
+* Taux de prothrombine bas à 10%.
+* Taux de céphaline activé de 3 fois celui du témoin.
+* Alanine Amino Transférase (ALAT) 10 fois la normale.
+* Aspartate Amino Transférase (ASAT) 11 fois la normale.
+* Hyperbilirubinémie à 90 mg/l.
+* Créatinémie à 17 mg/l.
+* Urée à 0.37 g/l.
+* Glycémie à 0.54 g/l.
+* Sérologies d'hépatite A, B, C et E négatives.
+
+**Diagnostic**: Syndrome hémolytique urémique gravidique (SHAG) est proposé en raison de l'ictère, de l'hyperbilirubinémie, de l'élévation des transaminases, de l'anémie et des anomalies de coagulation.
+
+**Therapeutic**:
+
+* Correction de la glycémie.
+* Transfusion rapide de 7 unités de plasma frais congelé.
+* Administration de 10 mg de vitamine K.
+* Accouchement par voie basse.
+
+**Evolution**:
+
+* **Premier bébé**: Accouché par voie basse, APGAR 8/10, sexe masculin, poids de 2 kg 500.
+* **Deuxième bébé**: Décès in utero par hémorragie intra amniotique.
+* **Mme Dubois**: Hospitalisation en réanimation 2 heures après l'accouchement.
+* **Échographie au lit du malade**: Dilatation péylo-calicielle, foie d'échostructure et de taille normales, sans dilatation intra ni extra hépatique, et sans visualisation d'un hématome sous capsulaire.
+* **Jour 2**:
+    * Examen cyto-bactériologique des urines positif avec présence d'Escherichia coli.
+    * Échographie abdominale : Épanchement péritonéal de grande abondance (4 litres de liquide jaune citrin ponctionné sous échographie), analyse cytobactériologique négative, biochimique type transsudat.
+    * Échographie cardiaque : Épanchement péricardique minime sans retentissement sur la fonction cardiaque.
+    * Insuffisance rénale aiguë oligoanurique jugulée par un traitement médical sans recours à la dialyse.
+* **Jour 7**: Détérioration de la conscience, échantillon de sang artériel de gaz sur 4 L/min d'oxygène par un masque montre un pH : 7,29, PCO2 : 32 mmHg, PO2 : 101 mmHg, bicarbonate : 15.0 mEq/L, et le déficit de base standard de 9.6 mEq/L. Intubation et ventilation pendant cinq jours, puis extubation. 
+* **Jour 17**: Adressée au service de maternité.
+
+**Conclusion**:
+
+Mme Dubois a présenté un cas grave de SHAG avec des complications obstétricales et infectieuses. La prise en charge multidisciplinaire a permis de sauver la vie de la patiente, malgré la perte du second fœtus. Une surveillance rigoureuse est nécessaire en réanimation et à la maternité.
+
+
+

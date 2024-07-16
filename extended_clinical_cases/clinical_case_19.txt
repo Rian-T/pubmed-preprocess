@@ -1,0 +1,69 @@
+##  Cas clinique : Mme Thérèse Fournier
+
+**Date :** 2023-10-26
+
+**Service :** ORL
+
+**Patient :** Mme Thérèse Fournier, 35 ans, cadre administrative, célibataire, sans enfant.
+
+**Adresse :** 12 rue de la Liberté, 75010 Paris.
+
+**Motif de consultation :** Dysfonctionnement rhinosinusien chronique depuis 6 mois, avec obstruction nasale et rhinorrhée antérieure droite.
+
+**Antécédents médicaux :** Aucun traumatisme facial. 
+
+**Famil iaires :** Asthme chez la mère.
+
+**Traitement antérieur :** 
+* Corticoïdes nasaux (fluticasone) sans amélioration significative.
+* Antihistaminiques (loratadine) sans effet notable.
+* Lavages nasaux quotidiens avec solution saline.
+
+**Examen clinique :**
+
+* **Aspect général :** En bon état général, pâle, légèrement anxieuse.
+* **Tête et cou :** 
+    * Aspect symétrique.
+    * Masse palpable dans la fosse nasale droite, ferme, partiellement nécrosée, saignante au toucher.
+    * Palpation des sinus maxillaires douloureuse.
+    * Gonflement des tissus péri-oraux droit.
+
+**Examen ORL :**
+* **Rhinoscopie :** Obstruction nasale droite, écoulement purulent et sanguin. Masse tumorale visible dans la fosse nasale droite, occupant presque entièrement le sinus maxillaire. 
+* **Auscultation otique :** Normale.
+
+**Radiologie :**
+* **Tomodensitographie (TDM) des sinus avec injection de contraste :** Comblement total du sinus maxillaire droit et des cellules ethmoïdales antérieures par une masse dense, laminant et soufflant les parois du sinus maxillaire. L'image montre une extension de la masse à travers l'ostium du sinus maxillaire élargi, atteignant la choane droite, la narine droite et les cellules ethmoïdales supérieures.
+
+**Diagnostic :**
+
+* **Polype naso-sinusien malin** (suspicion). 
+
+**Intervention :**
+
+* **Biopsie par voie endonasale sous anesthésie générale :** L'acte opératoire a été marqué par un saignement important, nécessitant une intervention chirurgicale plus extensive pour contrôler le saignement.
+
+**Analyse anatomopathologique :** En attente.
+
+**Evolution :**
+
+* La patiente est actuellement hospitalisée en surveillance. 
+* Une surveillance attentive du saignement et de l'état général est mise en place.
+* Une réévaluation des images radiologiques sera effectuée après la récupération complète de la patiente.
+
+**Prochaines étapes :**
+
+* Confirmation du diagnostic de polype naso-sinusien malin par l'analyse anatomopathologique.
+* Elaboration d'un plan thérapeutique adapté en fonction du type histologique de la tumeur (chirurgie, radiothérapie, chimiothérapie).
+
+
+
+**Dr. Jean Dupont**
+
+**ORL**
+
+**Hopital Lariboisière**
+
+
+
+

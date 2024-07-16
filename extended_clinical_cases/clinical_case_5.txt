@@ -1,0 +1,45 @@
+## Cas clinique : Mme Sophie Schmitt, 51 ans
+
+**Service**: Néphrologie, CHU de Lyon
+
+**Date**: 2023-10-26
+
+**Antécédents**: 
+
+Mme Sophie Schmitt, 51 ans, sans antécédents notables particuliers, consulte pour des lombalgies gauches persistantes depuis 6 mois. Elle évoque une sensation de pesanteur au niveau du flanc gauche, sans irradiations ni douleur particulière. L’examen clinique est globalement normal. 
+
+**Examen biologique**: 
+
+Le bilan biologique est dans les limites normales, notamment la fonction rénale. Le dosage des alpha-fetoprotéine (AFP) et des hormones thyroïdiennes est normal. 
+
+**Imagerie**:
+
+L'échographie rénale révèle une masse tissulaire hypoéchogène hétérogène occupant la moitié supérieure du rein gauche. La dimension est estimée à environ 8 cm. 
+
+Une tomodensitométrie (TDM) thoraco-abdominale confirme la présence d'une volumineuse masse tissulaire polylobée, bien limitée, avec quelques calcifications, de 8 cm de grand axe. La prise de contraste après injection montre un caractère stellaire sur certaines portions de la masse (Figure 6).  L'imagerie ne met pas en évidence de métastases à distance.
+
+**Chirurgie**:
+
+Une néphrectomie gauche élargie est réalisée. La pièce opératoire pèse 400 g et mesure 15×8×5 cm.  La coupe révèle une volumineuse masse tissulaire polaire, de consistance moelleuse, de couleur beige avec des remaniements nécrotico-hémorragiques.
+
+**Anatomopathologie**:
+
+L'examen histologique montre une tumeur compacte organisée en massifs faits de cellules de taille moyenne à grande, circonscrites par une membrane cytoplasmique bien visible. Les noyaux sont tantôt arrondis, tantôt fripés et pourvus d'un nucléole visible au fort grandissement. Le tissu tumoral présente des caractéristiques typiques d'un carcinome à cellules chromophobes rénal de grade II de Fuhrman.
+
+**Suivis**:
+
+La patiente a été revue en consultation à un mois, six mois et un an après la chirurgie. Son examen clinique a été normal à chaque consultation. La tomodensitométrie thoraco-abdominale réalisée après un an n'a pas mis en évidence de récidive locale ni de métastases à distance.
+
+
+**Conclusion**:
+
+Ce cas illustre le diagnostic et la prise en charge d'un carcinome à cellules chromophobes rénal de grade II. L'évolution favorable à un an après la néphrectomie gauche élargie  suggère un bon pronostic pour la patiente. 
+
+**Remarques**: 
+
+* La prise en charge multidisciplinaire du cancer du rein implique la collaboration entre néphrologues, urologues, oncologues, radiologues et pathologistes.
+
+* Le suivi à long terme des patients après une néphrectomie est essentiel pour détecter d'éventuelles récidives ou métastases.
+
+
+

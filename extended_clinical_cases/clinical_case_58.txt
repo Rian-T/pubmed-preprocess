@@ -1,0 +1,63 @@
+##  Cas clinique : Madame Sophie Lefebvre
+
+**Service :** Chirurgie Viscérale, Hôpital Général de Grand-Yoff
+**Date :** 2023-10-26
+
+**Patient :** Madame Sophie Lefebvre, 23 ans, célibataire, sans profession connue.
+
+**Motif de consultation :** Douleurs abdomino-pelviennes intenses, vomissements et diarrhée aiguë sur aménorrhée de 12 semaines.
+
+**Antécédents médicaux :** Aucun antécédent pathologique notable.
+
+**Examen clinique à l'admission :**
+
+* Patient en état général altéré, pâle, tachycardie à 110 bpm.
+* Muqueuses conjonctivales peu colorées, sclère blanche.
+* Abdomen : distendu, défense diffuse et douloureuse à la palpation. Les touchers pelviens sont également douloureux.
+* signe de Blumberg positif.
+* Absence de signe de McBurney.
+
+**Examens biologiques :**
+
+* Hémoglobine : 10.4 g/dL
+* Leucocytes : 26 700/mm3, prédominance neutrophile
+* CRP : 96 mg/L
+
+**Examens d'imagerie :**
+
+* Scanner abdomino-pelvien : épanchement péritonéal de grande abondance, pneumopéritoine massif. Suspicion de perforation intestinale.
+
+**Intervention chirurgicale :** Laparotomie exploratrice.
+
+**Résultats :**
+
+* Péritonite aiguë généralisée secondaire à une perforation du dôme utérin. 
+* Collection purulente de 1500 cc aspirée.
+* Anses grêles dilatées, multiples fausses membranes.
+
+**Gestes chirurgicaux :**
+
+* Aspiration du pus.
+* Toilette péritonéale.
+* Suture du dôme utérin.
+* Drainage péritonal.
+
+**Evolution post-opératoire :**
+
+*  Réveil sans complications.
+*  Suites opératoires simples.
+*  Remise en charge en service gynécologie- obstétrique à J 7.
+*  Retour à domicile à J 15.
+
+**Conclusion :**
+
+Madame Lefebvre présente une perforation du dôme utérin responsable d'une péritonite aiguë généralisée. L'intervention chirurgicale a permis de maîtriser la situation. L'évolution postopératoire est favorable. 
+
+
+ **Figure 1 :**  (Insertion d'une image du scanner abdomino-pelvien montrant l'épanchement péritonéal et le pneumopéritoine)
+
+**Figure 2 :** (Insertion d'une image de la laparotomie montrant la perforation du dôme utérin et la collection purulente)
+
+
+
+This fictional case study adheres to the typical style of a French clinical report, including detailed patient information, a structured description of the clinical presentation, examination findings, laboratory results, imaging studies, surgical procedure, and post-operative course. 

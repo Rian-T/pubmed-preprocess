@@ -1,0 +1,54 @@
+## Cas Clinique : Mme Z.D.
+
+**Données Patient:**
+
+* Nom : Z.D.
+* Âge : 58 ans
+* Sexe : Féminin
+* Antécédents Pathologiques : Fistule anale opérée
+
+**Motif de Consultation:**
+
+Mme Z.D. se plaignait depuis six mois de lombalgies droites irradiant vers la cuisse gauche. Ces douleurs étaient accompagnées d'une anorexie et d'un amaigrissement progressif. Elle démentait tout trouble urinaire, digestif associé ou autre symptôme notable.
+
+**Examen Clinique:**
+
+* Température : Apyrétique
+* Conjonctives : Normalement colorées
+* Abdomen : Souple, sans masses palpable
+* Ganglions : Libres
+* Examen neurologique : Sans particularité
+
+**Examens Paracliniques:**
+
+* Tomodensitométrie abdominale : Objectivait un processus lésionnel polaire inférieur du rein droit, de 7 cm de grand axe, dont la densité était tissulaire, se rehaussant hétérogène après injection du produit de contraste.  Pas d'envahissement de la veine rénale ni de la veine cave inférieure (Figure 1). Deux adénopathies latero-aortiques gauches de 6 mm étaient visibles.
+* Hémogramme : 
+    * Hb : 13 g/dL
+    * Leucocytes : 5400/mm3
+* Créatininémie : 9,32 mg/L (fonctions rénales normales)
+
+**Intervention Chirurgicale:**
+
+* Néphrectomie totale droite par voie sous-costale droite, en raison de la taille de la lésion et de ses rapports avec le pédicule rénal.
+* Suites opératoires simples.
+
+**Résultats de l'Examen Histologique:**
+
+* Macroscopique : Masse molle, encapsulée, de couleur beige.
+* Microscopique : Prolifération tumorale faite de nappes, de travées et de lobules de cellules tumorales.
+* Cellules tumorales : De grand taille, aspect végétal, cytoplasme éosinophile et noyaux chiffonnés entourés d'un halo clair. Les noyaux sont ronds, monomorphes et atypiques.
+* La capsule, les vaisseaux du hile et la recouper urétérale sont sains.
+* Diagnostic : Carcinome chromophobe du rein, grade IV de Fuhrman.
+
+**Suivi:**
+
+Le suivi de Mme Z.D. inclut une surveillance régulière des fonctions rénales, des marqueurs tumoraux et une radiographie thoracique. 
+
+
+**Remarques:**
+
+* La présence de deux adénopathies latero-aortiques gauches de 6 mm est à discuter en lien avec la  prolifération tumorale. 
+* Le grade IV de Fuhrman du carcinome chromophobe souligne l'agressivité de la tumeur et nécessitera un suivi vigilant.
+
+
+

@@ -1,0 +1,68 @@
+## Cas Clinique : Sarcome Phyllode de Haut Grade vs Lymphome Plasmoblastique à Grandes Cellules B
+
+**Patient:** Madame Marie Dubois, 33 ans,  unipare, 
+
+**Motif de Consultation:** Nodule du sein gauche découvert il y a quatre mois, ayant augmenté progressivement de taille. Un deuxième nodule a été découvert au niveau du sein droit il y a deux semaines.
+
+**Antécédents:** Aucun antécédent notable. Pas d'histoire familiale de cancer du sein.
+
+**Examen Clinique:**
+
+*  **Seins:** 
+    * **Gauche:** Masse palpable de 5 cm de grand axe au niveau du quadrant inféro-externe, de consistance élastique, mal limitée, indolore, non adhérente, sans signes inflammatoires.
+    * **Droit:** Nodule palpable de 3 cm de grand axe au niveau du quadrant supéro-externe, ayant les mêmes caractéristiques sémiologiques que celui du sein gauche.
+*  **Ganglions Axillaires:** Libres.
+*  **Examen Somatique:**  Normal.
+
+**Examen Extemporané:**
+
+*  Lors d'une caravane médicale, un examen extemporané de la masse du sein gauche a révélé un sarcome phyllode de haut grade. 
+
+**Intervention Chirurgicale:**
+
+*  **Mastectomie gauche:** 
+*  **Biopsie-exérèse du nodule du sein droit.**
+
+**Résultats Histologiques (Figure 1):**
+
+*  Les nodules tumoraux droits et gauches présentent des caractéristiques identiques.
+*  Prolifération de grandes cellules indifférenciées, d'aspect plasmocytoide à cytoplasme excentré, parfois vacuolaire.
+*  Noyaux de contour rond, avec chromatine dispersée. 
+*  Présence de cellules de plus grande taille, atypiques.
+*  Destruction ou déformation des canaux galactophoriques.
+
+*  **Profil immuno-histochimique:**
+    *  CD20-: 
+    *  CD3-: 
+    *  CD45+: 
+    *  CD138+: toutes les cellules.
+    *  Kappa/Lambda: Négatifs.
+    *  EBR+: 
+    *  Ki67: 80%.
+
+
+**Conclusion:**
+
+L'examen histologique et immuno-histochimique des biopsies des deux nodules mammaires montrent une prolifération plasmoblastique compatible avec un lymphome malin à grandes cellules B plasmoblastique. Le sarcome phyllode de haut grade initialement soupçonné est exclu.
+
+**Recommandations:**
+
+*  Consultation oncologique urgente.
+*  Imagerie approfondie (IRM, PET-scan) pour évaluer l'étendue de la maladie.
+*  Définir le traitement en fonction du stade du lymphome.
+
+**Figure 1:**
+
+*  [Description de la figure histologique] 
+
+
+
+**Remarques:**
+
+*  Le cas de Madame Dubois illustre l'importance de l'examen histologique pour le diagnostic précis des tumeurs mammaires.
+*  Le diagnostic initial de sarcome phyllode de haut grade est souvent difficile à différencier du lymphome plasmoblastique.
+*  Le profil immuno-histochimique est crucial pour confirmer le diagnostic de lymphome.
+
+
+
+

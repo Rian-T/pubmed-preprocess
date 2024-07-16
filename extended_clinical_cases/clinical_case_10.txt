@@ -1,0 +1,77 @@
+##  Cas clinique : Madame Dubois, 19 ans
+
+**Patient:** Madame Sophie Dubois, 19 ans, étudiante en histoire, résidant à Lyon.
+
+**Motif de consultation:** Asthénie et pâleur progressive depuis 21 jours, aggravée par de la fièvre et des hémorragies.
+
+**Antécédents:** 
+* Aucun antécédent notable. 
+* Vacciné à jour.
+* Pas de consommation de tabac ou d'alcool.
+
+**Médicaments:** 
+* Aucun.
+
+**Familliaux:** 
+* Pas d'histoire familiale d'anémies hémolytiques ou de troubles sanguins.
+
+**Examen clinique:**
+
+* **État général:** altéré, avec un teint pâle et une fatigue importante.
+* **Température:** 39.5°C.
+* **Glasgow:** 15/15.
+* **TA:** 10/7 mmHg (abnormally low).
+* **Saturation en Oxygène:** 100%.
+* **FC:** 78 bat/min.
+* **Conjonctives:** décolorées (jaune pâle).
+* **Peau:** taches ecchymotiques diffuses sur le corps, notamment sur les membres.
+* **Muqueuses:** gingivorragies de faible abondance, bulles hémorragiques au niveau de la muqueuse buccale.
+* **Abdomen:** hépatomégalie palpable à 15 cm en dessous du rebord costal droit, splénomégalie palpable à 3 cm de débord costal.
+* **Adénopathies:** absence d'adénopathies périphériques.
+* **Autres:** le reste de l'examen somatique est normal.
+
+**Hypothèses diagnostiques:**
+
+*  **Anémie hémolytique auto-immune:** le tableau clinique évoque fortement cette pathologie, avec asthénie, pâleur, fièvre, hémorragies et augmentation du volume hépatique et splinique.
+
+**Investigations:**
+
+* **Hémogramme:** 
+    * Hémoglobine: <8g/dl (valeurs anormales)
+    * VGM: <8fL (valeurs anormales)
+    * Réticulocytes: ↑ (valeurs anormales)
+    * Platelets: ↓ (valeurs anormales)
+* **Bilirubine totale et directe:** à doser.
+* **Coombs direct:** à réaliser pour confirmer une hémolyse auto-immune.
+* **Biopsie médullaire:** à envisager si nécessaire pour identifier la cause de l'anémie.
+* **Analyse d'urine:** à réaliser pour écarter une infection urinaire.
+
+**Conduite à tenir:**
+
+* **Hospitalisation:** nécessaire pour surveillance et traitement adapté.
+* **Transfusion sanguine:** à envisager en fonction de la gravité de l'anémie.
+* **Corticothérapie:** à débuter pour réduire l'activité auto-immune.
+* **Immunoglobulines intraveneuses:** à envisager en cas de réponse insuffisante aux corticostéroïdes.
+* **Prise en charge des hémorragies:** 
+
+    * Surveillance et traitement symptomatique (compresses, analgésiques).
+
+* **Education du patient:** sur la maladie et ses traitements.
+
+
+
+**Suivi:**
+
+* Suivi régulier en hématologie avec dosage des paramètres sanguins et adaptation du traitement.
+* Surveillance de l'état général et des symptômes.
+* Education du patient sur les signes d'aggravation et les mesures à prendre.
+
+
+
+ **Notes:**
+
+* Il est important de noter la tension artérielle anormalement basse de Madame Dubois, qui pourrait nécessiter une investigation plus approfondie.
+* L'évolution clinique de Madame Dubois sera déterminante pour affiner le diagnostic et adapter le traitement.
+
+
+

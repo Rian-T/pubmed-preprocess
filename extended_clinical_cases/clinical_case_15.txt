@@ -1,0 +1,49 @@
+##  Cas Clinique : Madame Yvette Fontaine
+
+**Madame Yvette Fontaine**, âgée de **72 ans**, a été adressée au service de cardiologie pour la réalisation d'un ECG et d'un écho Doppler cardiaque.  
+
+**Facteurs de risque cardiovasculaire :**
+
+* Âge (72 ans)
+* Hypertension artérielle non suivie (tension artérielle à 100/70 mmHg lors de l'examen, sans traitement connu)
+* Obésité androïde (IMC à 30,85 kg/m2, périmètre abdominal à 104 cm)
+
+**Motif de consultation:** 
+
+Une douleur thoracique "angineuse" inaugurale survenue il y a **34 jours**. Cette douleur a été traitée par les soins de santé primaires avec des pansements gastriques, des antalgiques et des anti-inflammatoires non stéroïdiens (AINS), sans amélioration notable.
+
+**Examen physique:**
+
+* Tension artérielle : **100/70 mmHg**.
+* IMC : **30,85 kg/m2**.
+* Périmètre abdominal : **104 cm**.
+* **Syndrome d'insuffisance cardiaque globale :**  
+    * Respiration accélérée à 24 cycles par minute.
+    * Toux sèche persistante.
+    * Gonflement des membres inférieurs (œdème des chevilles à 2+).
+    * Respiration sifflante à l'auscultation (sibilance).
+* **Souffle holosystolique endapexien d'intensité 3/6**, irradiant en rayon de roue.
+* Pouls périphériques : bien perçus.
+
+**Hypothèses diagnostiques:**
+
+* Insuffisance cardiaque avec probable dysfonction ventriculaire gauche.
+* Angine pectorale stable ou instable.
+* Syndrome coronarien aigu.
+
+**Orientation diagnostique:**
+
+* ECG : recherche de signes d'ischémie myocardique et d'insuffisance cardiaque.
+* Échocardiographie Doppler : évaluation de la fonction ventriculaire, recherche d'épaississement des parois ventriculaires, de régurgitations valvulaires et d'autres anomalies.
+* Biopsie myocardique (si nécessaire) : confirmation d'une cardiopathie ischémique.
+* Biopsie pulmonaire (si nécessaire) : exclusion d'autres pathologies pulmonaires.
+
+**Suivi:**
+
+* Hospitalisation pour une surveillance clinique et des investigations complémentaires.
+* Mise en place d'un traitement adapté en fonction du diagnostic final.
+
+
+**Note:** Ce cas clinique est fictif et a été créé à des fins éducatives. Il ne doit pas être utilisé pour diagnostiquer ou traiter des patients réels.
+
+

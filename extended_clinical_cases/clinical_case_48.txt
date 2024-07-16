@@ -1,0 +1,58 @@
+## Cas Clinique : Madame Marie-Bernadette Dubois
+
+**Patient:** Madame Marie-Bernadette Dubois, âgée de 48 ans,  mère de deux enfants, professeure de mathématiques au lycée Saint-Louis.
+
+**Motif d'hospitalisation:** Exploration de troubles de l'équilibre évoluant depuis 6 mois.
+
+**Antécédents:**
+
+* Pas de pathologies notables.
+*  Allergie à la pénicilline.
+* Prise régulière de paracetamol pour maux de tête.
+
+**Récit du patient:**
+
+Madame Dubois rapporte une sensation de lourdeur progressive des membres inférieurs depuis 6 mois. Au début, elle attribuait cette sensation à une fatigue liée à son activité professionnelle.  Il y a un mois, la sensation s'est accompagnée de fourmillements et de crampes musculaires, particulièrement au niveau des jambes. La patiente note également des difficultés à maintenir l'équilibre, notamment lors de la marche.  Elle décrit une marche "dandinante" et a développé besoin d'aide pour se déplacer.  
+
+**Examen clinique:**
+
+* **Etat général:** Conservé.
+* **Poids:** 88 kg.
+* **Taille:** 1m72.
+* **Température:** Apyrétique.
+* **Pression artérielle:** Normale à 110/70 mmHg, debout et couchée.
+
+**Examen neurologique:**
+
+* Ataxie proprioceptive aux membres inférieurs.
+* Marche dandinante nécessitant une aide.
+* Réflexes ostéo-tendineux abolis aux membres inférieurs.
+* Sensibilité tactile et algésique conservée.
+* Erreurs du sens de positionnement du gros orteil.
+* Examen des paires crâniennes normal.
+* Pas d'adénopathies périphériques ni d'hépato ou splénomégalie.
+
+**Examens complémentaires:**
+
+* **Électromyogramme (EMG):** Diminution des vitesses de conduction nerveuses sensitives et motrices aux membres supérieurs. Absence des vitesses de conduction au niveau des membres inférieurs. Absence de l'onde réflexe H et de l'onde F témoignant d'une dénervation sensitivo-motrice diffuse aux quatre membres.
+
+* **Ponction lombaire:** Dissociation albumino-cytologique avec une protéinorrachie à 1,26 g/l.
+
+**Diagnostic:**
+
+Polyradiculonévrite démyélinisante.
+
+**Orientation thérapeutique:**
+
+Corticothérapie par voie orale et traitement immunomodulateur (ex:  intravitamine B12).
+
+
+**Suivis:**
+
+Le suivi de Madame Dubois  sera réalisé en neurologie avec des consultations régulières et des examens complémentaires (EMG, ponction lombaire) afin d'évaluer l'efficacité du traitement et l'évolution de la maladie.
+
+**Réflexion:**
+
+Ce cas clinique met en évidence la complexité du diagnostic des neuropathies. L'électrophysiologie et la ponction lombaire sont des examens complémentaires importants pour confirmer le diagnostic et orienter le traitement.
+
+

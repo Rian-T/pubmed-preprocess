@@ -1,0 +1,72 @@
+##  Cas clinique : Mme A. R.
+
+**Service:** Neurologie
+
+**Date:** 2023-10-26
+
+**Patient:** Mme A. R., 30 ans, épouse, mère de trois enfants.
+
+**Motif de consultation:** Céphalées posturales diffuses, ophtalmoplégie hyperalgique, cervicalgies inflammatoires et fièvre apparues 4 jours après une accouchement par voie basse.
+
+**Antécédents:**
+
+* Multipare (3 grossesses, 3 naissances à terme par voie basse).
+* Aucun antécédent médical significatif.
+* Jamais reçu de traitement œstroprogestatif.
+
+**Examen clinique:**
+
+* **Général:** 
+    * Température : 38.2°C
+    * Fréquence cardiaque : 90 bpm
+    * Taux respiratoire : 18/min
+    * Tension artérielle : 125/80 mmHg
+    * L'état général est altéré, la patient semblant fatiguée et douloureuse.
+
+* **Neurologique:** 
+    *  Douleur diffuse et intense au niveau du crâne, aggravée par les mouvements oculaires.
+    *  Ophtalmoplégie hyperalgique bilatérale, avec photophobie et conjonctivite.
+    *  Réflexes oculaires conservés.
+    *  Aucun signe de déficit moteur ou sensitif.
+
+* **Rhumatologique:** 
+    *  Douleur et raideur cervicales importantes, exacerbée par les mouvements.
+    *  Absence de signe inflammatoire au niveau des articulations.
+
+**Examens complémentaires:**
+
+* **Radiographie du crâne et du rachis cervical:** Normale.
+* **Analyse sanguine:** 
+    *  CRP : 40 mg/L (valeurs normales : <10 mg/L)
+    *  VS : 30 mm/h (valeurs normales : <20 mm/h)
+    *  Autres paramètres sanguins normaux.
+* **PCR:** En cours.
+* **Bilan sérologique:** En cours.
+
+**Diagnostic:** 
+
+*  Suspicion de syndrome de Guillain-Barré post-partum.
+*  Possibilité d'une autre étiologie neuro-inflammatoire.
+
+**Traitement:**
+
+*  Hospitalisation pour surveillance et traitement symptomatique.
+*  Anti-inflammatoires non stéroïdiens (AINS) pour la fièvre et les douleurs.
+*  Corticothérapie à dose élevée en attente des résultats complémentaires.
+*  Suivi neurologique et réanimation.
+
+
+**Perspectives:**
+
+Le pronostic dépendra de la gravité de l'affection et de la rapidité du début du traitement. En cas de syndrome de Guillain-Barré, la rémission est généralement obtenue dans les semaines à venir, mais des séquelles neurologiques peuvent subsister.
+
+**Plan:**
+
+*  Consulter un neurologue spécialisé dans les neuropathies auto-immunes.
+*  Suivre l'évolution clinique et biologique.
+*  Effectuer des examens complémentaires pour confirmer le diagnostic.
+*  Définir un traitement adapté en fonction de la confirmation du diagnostic.
+
+
+
+ 

@@ -1,0 +1,78 @@
+##  Cas clinique : Mme Delphine Laurent
+
+**Antécédents médicaux:**
+
+* Patient: Delphine Laurent, 31 ans
+* Profession: Étudiante en droit
+* Date de naissance: 01/04/1992
+* Dernier jour des règles (DMR): 01/01/2023
+* Accouchement: normal par voie basse le 01/02/2023
+* Grossesse: à terme (38 semaines d'aménorrhée), évoluée sans complications
+* Antécédents familiaux: Aucun antécédent cardiovasculaire connu dans la famille
+
+**Motif d'hospitalisation:**
+
+Poussée d'insuffisance cardiaque gauche apparue un mois après l'accouchement.
+
+**Examen clinique à l'admission:**
+
+* **Aspect général:**  Patient pâle et en détresse respiratoire.
+* **Taux respiratoire:** 24/min.
+* **Fréquence cardiaque:** 120 bpm.
+* **Tension artérielle:** 100/65 mmHg.
+* **Auscultation cardiaque:** Souffle systolique d'insuffisance mitrale à 2/6 au niveau du foyer mitral, galop gauche protodiastolique.
+* **Auscultation pleuropulmonaire:** Râles crépitants aux hémichamps pulmonaires. Pas de signes d'œdème pulmonaire.
+* **Examen général:** Pas de signes périphériques d'insuffisance cardiaque droite.
+
+**Investigations paracliniques:**
+
+* **Électrocardiogramme de repos:** Tachycardie sinusale à 120 bpm. Pas de trouble de repolarisation ni d'hypertrophie pariétale.
+* **Radiographie pulmonaire de face:** Cardiomégalie, syndrome interstitiel, surcharge vasculaire pulmonaire.
+* **Biologie:** 
+    * Natrémie: 136 mmol/L.
+    * Kaliémie: 4 mmol/L.
+    * Troponine: 0,20 ng/ml (N < 0,04 ng/ml).
+    * NT-proBNP: 500 pg/ml (N < 300 pg/ml).
+* **Echographie cardiaque:** Aspect de cardiomyopathie dilatée hypokinétique avec altération de la fonction ventriculaire gauche.
+    * Diamètre télédiastolique du ventricule gauche: 65 mm.
+    * Diamètre télésystolique du ventricule gauche: 51 mm.
+    * Fraction d'éjection (FE) du ventricule gauche: 35% (calculée par Simpson biplan).
+    * Pressions de remplissage ventriculaires gauches élevées.
+    * Insuffisance mitrale de grade II, probablement fonctionnelle.
+* **Coronarographie:** Réseau coronaire angiographiquement sain.
+* **IRM cardiaque:**
+    * Confirmant l'hypocinésie globale du ventricule gauche.
+    * FEVG: 35%.
+    * Pas de prise de contraste du myocarde sur les séquences tardives réalisées 10 min après injection de gadolinium.
+
+**Diagnostic:**
+
+* Cardiomyopathie dilatée post-partum avec insuffisance mitrale fonctionnelle.
+
+**Traitement:**
+
+* Diurétique de l'anse (furosemide).
+* Inhibiteur de l'enzyme de conversion (lisinopril).
+* B-bloquant (métoprolol).
+
+**Évolution:**
+
+* Amélioration clinique et échocardiographique après 6 mois de traitement.
+* FEVG: 50%.
+
+
+**Conclusion:**
+
+
+Mme Delphine Laurent a présenté une cardiomyopathie dilatée post-partum avec insuffisance mitrale fonctionnelle. La prise en charge médicale a permis une amélioration significative de son état clinique et fonctionnel. Une surveillance régulière est nécessaire pour évaluer la progression de la maladie et ajuster le traitement si nécessaire.
+
+
+**Remarques:**
+
+
+* Ce cas clinique illustre l'importance de la prise en charge médicale rapide et efficace des complications cardiovasculaires post-partum.
+* La cardiomyopathie dilatée post-partum est une affection rare mais grave qui peut avoir des conséquences fatales si elle n'est pas traitée rapidement.
+* Le suivi régulier des patientes après un accouchement est essentiel pour détecter et traiter d'éventuelles complications cardiovasculaires.
+
+
+

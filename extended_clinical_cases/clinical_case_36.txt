@@ -1,0 +1,69 @@
+##  Cas Clinique : Madame K.H.
+
+**Patient:** Madame K.H., 86 ans
+
+**Motif d'hospitalisation:** Myalgies diffuses avec déficit musculaire des deux ceintures, œdème et érythème du visage évoluant depuis trois mois.
+
+**Antécédents:**
+
+* Arythmie complète par fibrillation auriculaire depuis 9 ans, traitée par Cordarone et Sintrom.
+* Hypothyroïdie traitée par L-thyroxine.
+
+**Examen clinique à l'admission (juin 2008):**
+
+* **Température:** Apyrétique.
+* **Poids:** 64 kg.
+* **Tension artérielle:** 120/70 mmHg.
+* **Examen général:**  Erythème du visage et en périorbitaire en lunette, lésions érythémato-squameuses au niveau du décolleté.
+* **Examen neurologique:** Déficit musculaire des deux ceintures scapulaires et pelviennes avec un score à 63/75 sur l'échelle fonctionnelle des myosites.
+* **Autres:** Pas d'autres signes particuliers.
+
+**Bilan biologique:**
+
+* **Hémogramme:** Anémie à 9 g/dl hypochrome microcytaire, leucocytes à 20000 éléments/mm3, plaquettes normales.
+* **Vitesse de sédimentation:** 38 mm la première heure.
+* **CRP:** 29 mg/l.
+* **Fonction rénale:** Insuffisance rénale avec un taux d'urée à 13,3 mmol/l et une créatinine à 178 umol/l.
+* **CPK:** Franchement élevées à 7504 UI/l.
+* **Transaminases:** Élevées avec un taux d'ASAT à 387 UI/l et d'ALAT à 292 UI/l.
+* **Recherche d'anticorps anti-nucléaires:** Positive à 1/1280 de type homogène.
+* **Bilan thyroïdien:** Normal.
+
+**Explorations complémentaires:**
+
+* **Électromyogramme (EMG):** Signes d'atteinte myogène diffuse avec des potentiels de fibrillation caractéristique d'une polymyosite en phase active.
+
+
+**Diagnostic:**
+
+* Dermatomyosite (DM) secondaire à une néoplasie ovarienne.
+
+**Justification du diagnostic:**
+
+L'association de myalgies diffuses, déficit musculaire, érythème cutané et résultats biologiques (CPK élevées, transaminases augmentées, recherche d'anticorps anti-nucléaires positive, EMG pathologique) suggère un diagnostic de DM. L'âge avancé de la patiente et le taux élevé de CA 125 (95,1 UI/ml) ont conduit à évoquer une origine secondaire de la maladie. 
+
+L'échographie abdominopelvienne a révélé deux masses kystiques sus et latéro-utérines à paroi épaissie renfermant des bourgeonnements tissulaires, d'origine vraisemblablement ovarienne. Ces masses, associées au contexte clinique et biologique, confirment le diagnostic de DM secondaire à une néoplasie ovarienne.
+
+**Propositions de prise en charge:**
+
+* Surveillance étroite des paramètres biologiques et fonctionnels.
+* Échographie abdominopelvienne et/ou IRM pelvienne pour suivre l'évolution des masses ovariennes.
+* Prise en charge de la dermatomyosite avec des corticostéroïdes et/ou des immunosuppresseurs.
+* Chirurgie ovarienne en fonction de la taille et de la nature des masses.
+* Prise en charge oncologique adaptée si néoplasie maligne confirmée.
+
+**Suivis:**
+
+* La prise en charge de la patiente est en cours avec une surveillance régulière des paramètres biologiques et fonctionnels.
+
+**Remarque:** 
+
+* Le cas clinique est fictif et a été créé à des fins éducatives.
+* Il est important de noter que le diagnostic et la prise en charge d'une dermatomyosite secondaire à une néoplasie ovarienne doivent être effectués par un médecin spécialiste.
+
+**Références:**
+
+* [Références bibliographiques pertinentes sur la dermatomyosite et les néoplasies ovariennes]
+
+
+

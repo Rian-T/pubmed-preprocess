@@ -1,0 +1,68 @@
+##  Cas Clinique :  Marie Dubois 
+
+**Date :** 2023-10-26
+
+**Patient :**  Marie Dubois, 8 ans, sexe féminin
+
+**Motif de consultation :**  Progression des signes pubertaires malgré traitement par hydrocortisone.
+
+**Antécédents familiaux :** Consanguinité de 1er degré entre les parents.
+
+**Examen clinique :**
+
+* **Développement mammaire:** Stade 2-3 de Tanner
+* **Pilosité pubienne:** Stade 3-4
+* **Pilosité axillaire:** Stade 2-3
+* **Hirsutisme:** Localisé au niveau du visage et du dos
+* **Augmentation staturale:** +2+3 DS
+* **Clitoris:**  Pas d'hypertrophie
+* **Métrorragies:** Absent
+* **Tension artérielle:** 130/80 mmHg
+* **Âge osseux:** 11 ans selon Greulish et Pyle
+
+**Bilan hormonal initial (à 7 ans) :**
+
+* **Testostéronémie:** 1.74 ng/ml
+* **FSH:** 4.3 mUI/ml (VN: 0.3-11.1)
+* **LH:** < 0.4 mUI/ml
+* **Œstradiol:** < 20 pg/ml
+* **17 Hydroprogestérone:** 2.4 ng/ml
+* **Désoxycorticostérone:** 3300 ng/ml
+* **11 Désoxycortisol:** Élevé
+* **Échographie abdomino-pelvienne:** Hyperplasie des surrénales bilatérale, utérus impubère
+
+**Traitement initial :** Hydrocortisone à la dose de 10 mg/jour. Normalisation du bilan hormonal.
+
+**Evolution :**
+
+* A 8 ans, malgré une bonne observance thérapeutique, la patiente présente une évolution des signes pubertaires.
+
+**Bilan hormonal actuel (à 8 ans) :**
+
+* **FSH:** 3.07 mUI/ml
+* **LH:** 4.2 mUI/ml
+* **Œstradiol:** 39.6 pg/ml (VN: 6-27)
+* **Test de stimulation à la LH-RH:** Pic de LH à 33.6 mUI/ml, pic de FSH à 16.6 mUI/ml.
+
+* **Échographie pelvienne:** Utérus mesurant 34×24×17 mm avec des ovaires droit et gauche mesurant respectivement 21×12 mm et 22×14 mm.
+* **Âge osseux:** 11 ans selon Greulish et Pyle.
+
+**Conclusion :** Puberté précoce centrale vraie par levée d'inhibition. Taille cible: 159 cm. Taille prédite (en retranchant 5 cm par année d'avance osseuse): 144 cm.
+
+
+ **Propositions de prise en charge :**
+
+* Suivi régulier de la croissance et du développement de la patiente.
+* Surveillance des fonctions génitales et de la puberté.
+* Adaptation du traitement par hydrocortisone si nécessaire.
+* Exploration endocrinologique approfondie pour identifier la cause de la puberté précoce.
+* Prise en charge psychologique et soutien familial.
+
+
+ **Références :**
+
+* Greulish et Pyle, "Evaluation de l'âge osseux".
+* Tanner, "Puberté et croissance".
+
+
+

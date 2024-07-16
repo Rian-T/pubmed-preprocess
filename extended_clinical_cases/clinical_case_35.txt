@@ -1,0 +1,79 @@
+##  Cas clinique : Monsieur Alexandre Dubois
+
+**Service :** Rhumatologie
+
+**Date d'admission :** 07 Novembre 2001
+
+**Motif d'hospitalisation :** Arthralgies inflammatoires et dysphagie
+
+**Antécédents médicaux :**
+
+* Insuffisance cardiaque connue (surveillance médicale régulière)
+* Hypertension artérielle traitée par bêta-bloquants
+
+**Patient :** Monsieur Alexandre Dubois, âgé de 84 ans, retraité, habitant à Paris.
+
+**Examen clinique:**
+
+* **Général :** Patient amaigri, apathique, avec une coloration pâle cutanée.
+* **Tête et cou :** Erythème périorbitaire et au niveau du décolleté sans œdème.
+* **Système respiratoire :** Respirations faciles, sans signe d'affection respiratoire notable.
+* **Cardiovasculaire :** Pouls régulier, rythme normal, murmure cardiaque à la base à l'auscultation.
+* **Musculaire :** Déficit musculaire des ceintures scapulaires et pelviennes au testing musculaire. Difficultés à lever les bras au-dessus de la tête et à monter les escaliers.
+* **Neurologique :** Réflexes ostéo-tendineux faibles, notamment aux membres supérieurs.
+* **Gastro-intestinal :** Dysphagie avec fausses routes itératives depuis deux mois, évoquant un trouble de la déglutition.
+
+**Bilan biologique :**
+
+* **Vitesse de sédimentation (VS) :** 80 mm la première heure
+* **CRP :** 92 mg/l
+* **Albumine :** 30 g/l (hypoalbuminémie)
+* **Alpha 1 globulines :** 3 g/l
+* **Alpha 2 globulines :** 10,2 g/l
+* **Gamma globulines :** 15 g/l
+* **Urée :** 23 mmol/l
+* **Créatinine :** 212 umol/l (insuffisance rénale)
+* **Hémogramme :**
+    * Leucocytes : 12000 éléments/mm3
+    * Hb : 12,9 g/dl
+    * Plaquettes : normales
+* **Transaminases :** ASAT et ALAT deux fois la normale
+* **CPK :** 1380 UI/l
+* **LDH :** 1110 UI/l
+* **Recherche d'anticorps anti-nucléaires :** Positive à 1/80 (type hépatites B et C négatives)
+
+**Explorations complémentaires:**
+
+* **Biopsie musculaire du deltoïde :** Confirmation de dermatopolymyosite (DPM) aiguë avec signes histologiques de myopathie inflammatoire (infiltrat lympho-histiocytaire dans les régions septales, inégalité de la taille des fibres, fibres en voie de nécrose, absence d'atrophie péri fasciculaire).
+* **Électromyogramme (EMG) :** Signes d'atteinte neurogène périphérique démyélinisante proximale et distale sensitivomotrice pouvant être en rapport avec une forme sévère de sa DM.
+
+**Diagnostic:**
+
+* Dermatomyosite (DM) aiguë selon les critères de Bohan et Peter.
+
+**Recherche d'une néoplasie associée:**
+
+* Examen ORL normal.
+* Marqueurs tumoraux (AFP, ACE, CA 19-9) normaux.
+* Radiographie thoracique et échographie abdominopelvienne normales.
+
+**Traitement:**
+
+* Trois bolus de méthylprednisolone (Solumédrol®) à la dose de 1 g/jour.
+* Corticothérapie à forte dose (prednisolone 1mg/kg/j soit Solupred® 3 comprimés par jour).
+
+**Évolution:**
+
+* Amélioration partielle des forces musculaires et des fausses routes.
+* Baisse du taux des enzymes musculaires (CPK à 144 UI/l et LDH à 707 UI/l).
+
+**Prognostic:**
+
+* Le pronostic reste dépendant de l'évolution de la maladie et de la réponse au traitement. 
+
+**Suivis:**
+
+* Consultation spécialisée en rhumatologie.
+* Suivi biologique régulier (VS, CRP, albumine, transaminases, CPK, LDH, etc.).
+
+

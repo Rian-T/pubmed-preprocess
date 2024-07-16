@@ -1,0 +1,27 @@
+##  Cas Clinique : Madame Brigitte Z., 60 ans
+
+**Motif de consultation:**  Douleurs et gonflement au niveau de la jambe droite depuis 7 jours.  
+
+**Antécédents médicaux:** Hypertension artérielle contrôlée par traitement médicamenteux depuis 10 ans. Hypercholestérolémie traitée par statines depuis 5 ans. Diabète de type II non insulinodépendant depuis 2 ans. Tabagisme actif (20 cigarettes/jour) depuis l'âge de 18 ans.
+
+**Examen clinique:** Madame Z. est une femme de 60 ans, de constitution robuste, mesurant 1m60 et pesant 70 kg. Son teint est pâle. L'examen cardiovasculaire révèle une pression artérielle de 140/90 mmHg. L'auscultation pulmonaire est normale. L'examen neurologique est normal. Au niveau de la jambe droite, on observe un œdème important et douloureux, de couleur rouge-violacée. La peau est chaude au toucher et les signes de inflammation sont présents (érythème, chaleur, douleur, œdème). 
+
+**Diagnostic:** Thrombophlébite aiguë de la jambe droite.
+
+**Investigations:**
+*  **Eletrophorèse des protéines sériques:**  Présence d'un pic effilé à base étroite migrant dans la zone des gammaglobulines.
+* **Immunofixation des protéines sériques:** Polymérisation des protéines au point de dépôt au niveau de toutes les pistes (ELP, G, A, M, K, L) nécessitant un traitement préalable du sérum par le BME. Après traitement par la solution réductrice, une seconde immunofixation révèle une immunoglobuline monoclonale de type IgG kappa.
+
+**Discussion:** L'immunofixation révèle la présence d'une paraproteïnemie de type IgG kappa.  La présence d'une thrombophlébite associée à cette paraproteïnemie doit faire suspecter une maladie lymphoproliférative. Il est important de réaliser un bilan complet pour évaluer la gravité de la situation et la nécessité d'un traitement agressif.
+
+**Conduite à tenir:** 
+* **Biopsie médullaire:** Pour confirmer le diagnostic d'une maladie lymphoproliférative.
+* **Imagerie du système osseux:** Pour rechercher des lésions osseuses.
+* **Bilan biologique complet:**  Vérification de l'état général et des fonctions organiques.
+* **Suivi clinique et biologique régulier:**  En fonction du diagnostic final.
+
+**Pronostic:** Le pronostic dépend de la nature et de l'état de la maladie lymphoproliférative.
+
+**En conclusion:** Madame Z. est une patiente de 60 ans avec une thrombophlébite aiguë de la jambe droite et une paraproteïnemie d'IgG kappa. Il est nécessaire de réaliser un bilan complet pour confirmer le diagnostic et orienter le traitement.
+
+
